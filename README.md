@@ -6,6 +6,7 @@ I build small, practical developer tools that solve everyday workflow problems.
 
 | Project | What it does | Try it |
 |---|---|---|
+| **[cron-explain-lite](https://github.com/funnyhcat-dotcom/cron-explain-lite)** | Explain cron expressions in plain English from the terminal | `npx cron-explain-lite` |
 | **[http-status-cheatsheet-cli](https://github.com/funnyhcat-dotcom/http-status-cheatsheet-cli)** | Search and explain HTTP status codes from the terminal | `npx http-status-cheatsheet-cli` |
 | **[openapi-mini-lint](https://github.com/funnyhcat-dotcom/openapi-mini-lint)** | Tiny OpenAPI linter for common documentation quality issues | `npx openapi-mini-lint` |
 | **[route-map-lite](https://github.com/funnyhcat-dotcom/route-map-lite)** | Scan source code and generate a simple API route map | `npx route-map-lite` |
