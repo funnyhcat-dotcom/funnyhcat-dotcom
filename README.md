@@ -6,6 +6,7 @@ I build small, practical developer tools that solve everyday workflow problems.
 
 | Project | What it does | Try it |
 |---|---|---|
+| **[semver-bump-suggest](https://github.com/funnyhcat-dotcom/semver-bump-suggest)** | Suggest the next semver bump from Conventional Commit messages | `npx semver-bump-suggest` |
 | **[todo-md-dashboard](https://github.com/funnyhcat-dotcom/todo-md-dashboard)** | Generate a Markdown dashboard from TODO, FIXME, HACK, and NOTE comments | `npx todo-md-dashboard` |
 | **[npm-publish-checklist](https://github.com/funnyhcat-dotcom/npm-publish-checklist)** | Check npm package readiness before publishing | `npx npm-publish-checklist` |
 | **[cron-explain-lite](https://github.com/funnyhcat-dotcom/cron-explain-lite)** | Explain cron expressions in plain English from the terminal | `npx cron-explain-lite` |
