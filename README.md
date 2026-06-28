@@ -6,6 +6,7 @@ I build small, practical developer tools that solve everyday workflow problems.
 
 | Project | What it does | Try it |
 |---|---|---|
+| **[readme-toc-genie](https://github.com/funnyhcat-dotcom/readme-toc-genie)** | Generate and update Markdown table of contents blocks | `npx readme-toc-genie` |
 | **[semver-bump-suggest](https://github.com/funnyhcat-dotcom/semver-bump-suggest)** | Suggest the next semver bump from Conventional Commit messages | `npx semver-bump-suggest` |
 | **[todo-md-dashboard](https://github.com/funnyhcat-dotcom/todo-md-dashboard)** | Generate a Markdown dashboard from TODO, FIXME, HACK, and NOTE comments | `npx todo-md-dashboard` |
 | **[npm-publish-checklist](https://github.com/funnyhcat-dotcom/npm-publish-checklist)** | Check npm package readiness before publishing | `npx npm-publish-checklist` |
