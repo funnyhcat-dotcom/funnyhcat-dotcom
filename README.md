@@ -6,6 +6,7 @@ I build small, practical developer tools that solve everyday workflow problems.
 
 | Project | What it does | Try it |
 |---|---|---|
+| **[env-example-sync](https://github.com/funnyhcat-dotcom/env-example-sync)** | Generate and keep `.env.example` synced without leaking secrets | `npx env-example-sync` |
 | **[json-type-genie](https://github.com/funnyhcat-dotcom/json-type-genie)** | Generate clean TypeScript types from JSON/API responses | `npx json-type-genie` |
 | **[port-cleaner-lite](https://github.com/funnyhcat-dotcom/port-cleaner-lite)** | Find and safely free busy development ports | `npx port-cleaner-lite` |
 | **[secret-scan-lite](https://github.com/funnyhcat-dotcom/secret-scan-lite)** | Fast local secret scanner before you push code | `npx secret-scan-lite` |
