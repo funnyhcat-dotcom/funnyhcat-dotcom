@@ -6,6 +6,7 @@ I build small, practical developer tools that solve everyday workflow problems.
 
 | Project | What it does | Try it |
 |---|---|---|
+| **[robots-txt-doctor](https://github.com/funnyhcat-dotcom/robots-txt-doctor)** | Audit `robots.txt` files for common SEO and crawler access issues | `npx robots-txt-doctor` |
 | **[gitignore-snippet-genie](https://github.com/funnyhcat-dotcom/gitignore-snippet-genie)** | Generate practical `.gitignore` snippets by tech stack | `npx gitignore-snippet-genie` |
 | **[changelog-section-maker](https://github.com/funnyhcat-dotcom/changelog-section-maker)** | Generate a clean changelog section from commit messages | `npx changelog-section-maker` |
 | **[readme-toc-genie](https://github.com/funnyhcat-dotcom/readme-toc-genie)** | Generate and update Markdown table of contents blocks | `npx readme-toc-genie` |
