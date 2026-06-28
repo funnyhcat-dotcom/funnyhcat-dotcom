@@ -6,6 +6,7 @@ I build small, practical developer tools that solve everyday workflow problems.
 
 | Project | What it does | Try it |
 |---|---|---|
+| **[changelog-section-maker](https://github.com/funnyhcat-dotcom/changelog-section-maker)** | Generate a clean changelog section from commit messages | `npx changelog-section-maker` |
 | **[readme-toc-genie](https://github.com/funnyhcat-dotcom/readme-toc-genie)** | Generate and update Markdown table of contents blocks | `npx readme-toc-genie` |
 | **[semver-bump-suggest](https://github.com/funnyhcat-dotcom/semver-bump-suggest)** | Suggest the next semver bump from Conventional Commit messages | `npx semver-bump-suggest` |
 | **[todo-md-dashboard](https://github.com/funnyhcat-dotcom/todo-md-dashboard)** | Generate a Markdown dashboard from TODO, FIXME, HACK, and NOTE comments | `npx todo-md-dashboard` |
