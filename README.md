@@ -6,6 +6,7 @@ I build small, practical developer tools that solve everyday workflow problems.
 
 | Project | What it does | Try it |
 |---|---|---|
+| **[workflow-guard-lite](https://github.com/funnyhcat-dotcom/workflow-guard-lite)** | Scan GitHub Actions workflows for risky defaults and hardening wins | `npx workflow-guard-lite` |
 | **[api-shape-diff](https://github.com/funnyhcat-dotcom/api-shape-diff)** | Compare JSON/API response shapes and catch breaking changes | `npx api-shape-diff` |
 | **[env-example-sync](https://github.com/funnyhcat-dotcom/env-example-sync)** | Generate and keep `.env.example` synced without leaking secrets | `npx env-example-sync` |
 | **[json-type-genie](https://github.com/funnyhcat-dotcom/json-type-genie)** | Generate clean TypeScript types from JSON/API responses | `npx json-type-genie` |
