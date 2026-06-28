@@ -6,6 +6,7 @@ I build small, practical developer tools that solve everyday workflow problems.
 
 | Project | What it does | Try it |
 |---|---|---|
+| **[repo-health-score](https://github.com/funnyhcat-dotcom/repo-health-score)** | Score open-source repository readiness with one simple CLI | `npx repo-health-score` |
 | **[gitignore-doctor](https://github.com/funnyhcat-dotcom/gitignore-doctor)** | Audit `.gitignore` files for common misses by project stack | `npx gitignore-doctor` |
 | **[dockerignore-doctor](https://github.com/funnyhcat-dotcom/dockerignore-doctor)** | Audit `.dockerignore` files to keep Docker build contexts small and safer | `npx dockerignore-doctor` |
 | **[package-json-doctor](https://github.com/funnyhcat-dotcom/package-json-doctor)** | Audit `package.json` quality before publishing open source Node.js projects | `npx package-json-doctor` |
