@@ -6,6 +6,7 @@ I build small, practical developer tools that solve everyday workflow problems.
 
 | Project | What it does | Try it |
 |---|---|---|
+| **[markdown-link-doctor](https://github.com/funnyhcat-dotcom/markdown-link-doctor)** | Check Markdown local links, images, and anchors before they break | `npx markdown-link-doctor` |
 | **[env-usage-audit](https://github.com/funnyhcat-dotcom/env-usage-audit)** | Find env vars used in code but missing from `.env.example` | `npx env-usage-audit` |
 | **[workflow-guard-lite](https://github.com/funnyhcat-dotcom/workflow-guard-lite)** | Scan GitHub Actions workflows for risky defaults and hardening wins | `npx workflow-guard-lite` |
 | **[api-shape-diff](https://github.com/funnyhcat-dotcom/api-shape-diff)** | Compare JSON/API response shapes and catch breaking changes | `npx api-shape-diff` |
