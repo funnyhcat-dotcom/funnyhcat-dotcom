@@ -6,6 +6,7 @@ I build small, practical developer tools that solve everyday workflow problems.
 
 | Project | What it does | Try it |
 |---|---|---|
+| **[jwt-inspect-lite](https://github.com/funnyhcat-dotcom/jwt-inspect-lite)** | Decode JWTs locally and inspect claims, expiry, and safety warnings | `npx jwt-inspect-lite` |
 | **[curl-to-fetch-lite](https://github.com/funnyhcat-dotcom/curl-to-fetch-lite)** | Convert common `curl` commands into clean JavaScript `fetch` snippets | `npx curl-to-fetch-lite` |
 | **[readme-badge-maker](https://github.com/funnyhcat-dotcom/readme-badge-maker)** | Generate clean Markdown badges for README files in seconds | `npx readme-badge-maker` |
 | **[license-notice-checker](https://github.com/funnyhcat-dotcom/license-notice-checker)** | Check LICENSE, package metadata, and source notice consistency | `npx license-notice-checker` |
