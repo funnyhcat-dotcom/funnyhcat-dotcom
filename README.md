@@ -6,6 +6,7 @@ I build small, practical developer tools that solve everyday workflow problems.
 
 | Project | What it does | Try it |
 |---|---|---|
+| **[license-notice-checker](https://github.com/funnyhcat-dotcom/license-notice-checker)** | Check LICENSE, package metadata, and source notice consistency | `npx license-notice-checker` |
 | **[json-sample-redactor](https://github.com/funnyhcat-dotcom/json-sample-redactor)** | Redact secrets and personal data from JSON before sharing examples | `npx json-sample-redactor` |
 | **[npm-script-docs](https://github.com/funnyhcat-dotcom/npm-script-docs)** | Generate a clean Markdown scripts table from `package.json` | `npx npm-script-docs` |
 | **[repo-health-score](https://github.com/funnyhcat-dotcom/repo-health-score)** | Score open-source repository readiness with one simple CLI | `npx repo-health-score` |
