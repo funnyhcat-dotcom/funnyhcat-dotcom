@@ -6,6 +6,7 @@ I build small, practical developer tools that solve everyday workflow problems.
 
 | Project | What it does | Try it |
 |---|---|---|
+| **[port-cleaner-lite](https://github.com/funnyhcat-dotcom/port-cleaner-lite)** | Find and safely free busy development ports | `npx port-cleaner-lite` |
 | **[secret-scan-lite](https://github.com/funnyhcat-dotcom/secret-scan-lite)** | Fast local secret scanner before you push code | `npx secret-scan-lite` |
 | **[git-daily](https://github.com/funnyhcat-dotcom/git-daily)** | Generate daily work reports from Git commits | `npx git-daily` |
 | **[repo-cleaner](https://github.com/funnyhcat-dotcom/repo-cleaner)** | Safely scan and clean project junk files | `npx repo-cleaner` |
