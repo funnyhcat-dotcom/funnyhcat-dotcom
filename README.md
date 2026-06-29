@@ -6,6 +6,7 @@ I build small, practical developer tools that solve everyday workflow problems.
 
 | Project | What it does | Try it |
 |---|---|---|
+| **[http-cache-header-doctor](https://github.com/funnyhcat-dotcom/http-cache-header-doctor)** | Audit HTTP caching headers from files, stdin, JSON, or live URLs with profile-based fixes | `npx http-cache-header-doctor` |
 | **[package-exports-doctor](https://github.com/funnyhcat-dotcom/package-exports-doctor)** | Audit `package.json` exports, bin, main, module, and types fields before publishing Node packages | `npx package-exports-doctor` |
 | **[csv-header-doctor](https://github.com/funnyhcat-dotcom/csv-header-doctor)** | Audit CSV headers for duplicates, empty columns, unsafe formulas, and messy names | `npx csv-header-doctor` |
 | **[json-lines-doctor](https://github.com/funnyhcat-dotcom/json-lines-doctor)** | Validate, compact, and summarize NDJSON/JSONL files from the terminal | `npx json-lines-doctor` |
