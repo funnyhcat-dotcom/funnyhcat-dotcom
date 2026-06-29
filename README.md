@@ -6,6 +6,7 @@ I build small, practical developer tools that solve everyday workflow problems.
 
 | Project | What it does | Try it |
 |---|---|---|
+| **[api-data-retention-policy-doctor](https://github.com/funnyhcat-dotcom/api-data-retention-policy-doctor)** | Audits data retention policy docs for scope, periods, categories, deletion methods, legal holds, backups, erasure requests, automation, verification, privacy, statuses, owners, and effective dates. | `npx api-data-retention-policy-doctor` |
 | **[api-export-manifest-doctor](https://github.com/funnyhcat-dotcom/api-export-manifest-doctor)** | Audits data export manifest docs for file lists, checksums, schema versions, signed URL expiry, metadata, record counts, formats, verification, privacy, retry, errors, retention, and audit logs. | `npx api-export-manifest-doctor` |
 | **[api-idempotent-consumer-doctor](https://github.com/funnyhcat-dotcom/api-idempotent-consumer-doctor)** | Audits idempotent event consumer docs for stable IDs, dedupe stores, transactions, side effects, ordering, replay, TTL, failures, concurrency, observability, and tests. | `npx api-idempotent-consumer-doctor` |
 | **[api-api-quota-billing-doctor](https://github.com/funnyhcat-dotcom/api-api-quota-billing-doctor)** | Audits API quota/billing docs for quota model, billable units, overages, hard/soft limits, rate-limit distinction, reset windows, usage APIs, alerts, plans, invoices, disputes, and privacy. | `npx api-api-quota-billing-doctor` |
