@@ -6,6 +6,7 @@ I build small, practical developer tools that solve everyday workflow problems.
 
 | Project | What it does | Try it |
 |---|---|---|
+| **[sdk-retry-doctor](https://github.com/funnyhcat-dotcom/sdk-retry-doctor)** | Audits SDK docs for retry defaults, backoff, jitter, Retry-After, timeout config, idempotency, unsafe methods, observability, and testing. | `npx sdk-retry-doctor` |
 | **[api-deprecation-header-doctor](https://github.com/funnyhcat-dotcom/api-deprecation-header-doctor)** | Audits API deprecation/sunset docs for Deprecation, Sunset, Link headers, timelines, replacements, migration steps, SDK impact, support, and monitoring. | `npx api-deprecation-header-doctor` |
 | **[api-bulk-operation-doctor](https://github.com/funnyhcat-dotcom/api-bulk-operation-doctor)** | Audits bulk API docs for payload shape, limits, async jobs, partial failures, per-item errors, idempotency, retries, ordering, and webhooks. | `npx api-bulk-operation-doctor` |
 | **[docs-quickstart-doctor](https://github.com/funnyhcat-dotcom/docs-quickstart-doctor)** | Audits Quickstart docs for prerequisites, install, first command, expected output, verification, config, auth, troubleshooting, and cleanup. | `npx docs-quickstart-doctor` |
