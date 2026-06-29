@@ -6,6 +6,7 @@ I build small, practical developer tools that solve everyday workflow problems.
 
 | Project | What it does | Try it |
 |---|---|---|
+| **[cli-help-doctor](https://github.com/funnyhcat-dotcom/cli-help-doctor)** | Audits CLI README/help text for install, usage, options, examples, IO, exit codes, env vars, CI, and troubleshooting. | `npx cli-help-doctor` |
 | **[api-filter-sort-doctor](https://github.com/funnyhcat-dotcom/api-filter-sort-doctor)** | Audits API docs for filtering/sorting operators, defaults, tie breakers, pagination stability, limits, and examples. | `npx api-filter-sort-doctor` |
 | **[api-auth-scope-doctor](https://github.com/funnyhcat-dotcom/api-auth-scope-doctor)** | Audit API docs and code for OAuth scopes, permission matrices, least privilege, 401/403 behavior, token examples, scope changes, and authorization tests. | `npx api-auth-scope-doctor` |
 | **[api-cors-docs-doctor](https://github.com/funnyhcat-dotcom/api-cors-docs-doctor)** | Audit API CORS documentation and code for allowed origins, methods, headers, credentials, preflight behavior, browser errors, and local development guidance. | `npx api-cors-docs-doctor` |
