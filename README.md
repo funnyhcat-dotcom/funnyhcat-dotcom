@@ -6,6 +6,7 @@ I build small, practical developer tools that solve everyday workflow problems.
 
 | Project | What it does | Try it |
 |---|---|---|
+| **[json-schema-compat-doctor](https://github.com/funnyhcat-dotcom/json-schema-compat-doctor)** | Compare two JSON Schemas and flag breaking changes in required fields, types, enums, object properties, array items, and numeric/string constraints | `npx json-schema-compat-doctor` |
 | **[oauth-redirect-uri-doctor](https://github.com/funnyhcat-dotcom/oauth-redirect-uri-doctor)** | Audit OAuth redirect URI allowlists for wildcard risks, localhost leaks, insecure schemes, production drift, duplicates, and takeover-prone callback patterns | `npx oauth-redirect-uri-doctor` |
 | **[cors-preflight-doctor](https://github.com/funnyhcat-dotcom/cors-preflight-doctor)** | Audit CORS and OPTIONS preflight responses for safe origins, credentials, methods, headers, cache duration, and browser-friendly API behavior | `npx cors-preflight-doctor` |
 | **[api-versioning-doctor](https://github.com/funnyhcat-dotcom/api-versioning-doctor)** | Audit API versioning signals for clear lifecycle policy, stable headers, deprecation metadata, and client-safe evolution | `npx api-versioning-doctor` |
