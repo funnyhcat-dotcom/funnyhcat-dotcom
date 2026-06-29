@@ -6,6 +6,7 @@ I build small, practical developer tools that solve everyday workflow problems.
 
 | Project | What it does | Try it |
 |---|---|---|
+| **[terraform-vars-doctor](https://github.com/funnyhcat-dotcom/terraform-vars-doctor)** | Audit Terraform variables and tfvars for secret leaks, unsafe defaults, missing descriptions, weak typing, provider pinning, backend hygiene, and IaC readiness | `npx terraform-vars-doctor` |
 | **[k8s-manifest-doctor](https://github.com/funnyhcat-dotcom/k8s-manifest-doctor)** | Audit Kubernetes manifests for production readiness: resource limits, probes, non-root security contexts, unsafe images, privileged containers, and service exposure risks | `npx k8s-manifest-doctor` |
 | **[dockerfile-doctor](https://github.com/funnyhcat-dotcom/dockerfile-doctor)** | Audit Dockerfiles for safer, smaller, production-ready containers: pinned bases, non-root users, secrets, cache hygiene, healthchecks, and build reliability | `npx dockerfile-doctor` |
 | **[github-actions-doctor](https://github.com/funnyhcat-dotcom/github-actions-doctor)** | Audit GitHub Actions workflows for least-privilege permissions, pinned actions, risky triggers, secret exposure, shell safety, and CI reliability basics | `npx github-actions-doctor` |
