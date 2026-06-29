@@ -6,6 +6,7 @@ I build small, practical developer tools that solve everyday workflow problems.
 
 | Project | What it does | Try it |
 |---|---|---|
+| **[api-webhook-security-doctor](https://github.com/funnyhcat-dotcom/api-webhook-security-doctor)** | Audits webhook security docs for signatures, canonical payloads, replay protection, secret rotation, verification, TLS, endpoint ownership, retries, idempotency, privacy, monitoring, and incidents. | `npx api-webhook-security-doctor` |
 | **[api-sdk-retry-policy-doctor](https://github.com/funnyhcat-dotcom/api-sdk-retry-policy-doctor)** | Audits SDK retry policy docs for retryable errors, backoff+jitter, max attempts, timeouts, idempotency, Retry-After, cancellation, observability, config, tests, and compatibility. | `npx api-sdk-retry-policy-doctor` |
 | **[api-error-taxonomy-doctor](https://github.com/funnyhcat-dotcom/api-error-taxonomy-doctor)** | Audits API error taxonomy docs for stable codes, HTTP mapping, response schema, retryability, validation details, auth errors, correlation IDs, redaction, examples, SDK handling, and ownership. | `npx api-error-taxonomy-doctor` |
 | **[api-openapi-pagination-doctor](https://github.com/funnyhcat-dotcom/api-openapi-pagination-doctor)** | Audits OpenAPI pagination docs for style, parameters, response envelope, links, stable ordering, limits, cursor lifetime, errors, filters, mutations, SDK guidance, and compatibility. | `npx api-openapi-pagination-doctor` |
