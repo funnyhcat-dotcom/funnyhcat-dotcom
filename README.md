@@ -6,6 +6,7 @@ I build small, practical developer tools that solve everyday workflow problems.
 
 | Project | What it does | Try it |
 |---|---|---|
+| **[api-problem-json-doctor](https://github.com/funnyhcat-dotcom/api-problem-json-doctor)** | Audits RFC 9457 application/problem+json error docs for content type, core fields, type URIs, validation errors, trace IDs, extensions, examples, auth/rate-limit cases, OpenAPI schema reuse, compatibility, and safe details. | `npx api-problem-json-doctor` |
 | **[api-openapi-examples-doctor](https://github.com/funnyhcat-dotcom/api-openapi-examples-doctor)** | Audits OpenAPI/Swagger examples for request bodies, responses, errors, named examples, content types, schema refs, auth, pagination, realistic values, code samples, rate limits, and webhook/event examples. | `npx api-openapi-examples-doctor` |
 | **[api-event-schema-doctor](https://github.com/funnyhcat-dotcom/api-event-schema-doctor)** | Audits event/webhook/message schema docs for envelopes, event types, schema versions, payloads, timestamps, idempotency, ordering, replay, retries, security/privacy, examples, consumer guidance, and testing. | `npx api-event-schema-doctor` |
 | **[api-websocket-docs-doctor](https://github.com/funnyhcat-dotcom/api-websocket-docs-doctor)** | Audits WebSocket/realtime API docs for connection URLs, auth, subscriptions, schemas, heartbeat, reconnect/resume, ordering, delivery guarantees, close codes, rate limits, security, examples, and fallbacks. | `npx api-websocket-docs-doctor` |
