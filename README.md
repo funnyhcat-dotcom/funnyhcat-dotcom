@@ -6,6 +6,7 @@ I build small, practical developer tools that solve everyday workflow problems.
 
 | Project | What it does | Try it |
 |---|---|---|
+| **[yaml-env-checker](https://github.com/funnyhcat-dotcom/yaml-env-checker)** | Find environment variables referenced in YAML but missing from `.env.example` | `npx yaml-env-checker` |
 | **[url-query-cleaner-cli](https://github.com/funnyhcat-dotcom/url-query-cleaner-cli)** | Remove tracking query parameters from URLs in the terminal | `npx url-query-cleaner-cli` |
 | **[json-key-sorter-cli](https://github.com/funnyhcat-dotcom/json-key-sorter-cli)** | Sort JSON object keys for stable diffs from the terminal | `npx json-key-sorter-cli` |
 | **[markdown-table-fixer](https://github.com/funnyhcat-dotcom/markdown-table-fixer)** | Format and align Markdown tables from the terminal | `npx markdown-table-fixer` |
