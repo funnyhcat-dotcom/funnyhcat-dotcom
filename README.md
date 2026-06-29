@@ -6,6 +6,7 @@ I build small, practical developer tools that solve everyday workflow problems.
 
 | Project | What it does | Try it |
 |---|---|---|
+| **[rate-limit-header-doctor](https://github.com/funnyhcat-dotcom/rate-limit-header-doctor)** | Audit API rate limit headers for standard fields, reset timing, retry-after behavior, remaining limits, and client-friendly throttling metadata | `npx rate-limit-header-doctor` |
 | **[webhook-payload-doctor](https://github.com/funnyhcat-dotcom/webhook-payload-doctor)** | Audit webhook payload samples for stable event shape, IDs, timestamps, signatures, retries, versioning, and safe data exposure | `npx webhook-payload-doctor` |
 | **[api-pagination-doctor](https://github.com/funnyhcat-dotcom/api-pagination-doctor)** | Audit API pagination responses for stable shape, cursors, limits, totals, links, and client-friendly metadata | `npx api-pagination-doctor` |
 | **[api-error-shape-doctor](https://github.com/funnyhcat-dotcom/api-error-shape-doctor)** | Audit API error responses for consistent JSON shape, safe messages, status/code alignment, and RFC 7807 readiness | `npx api-error-shape-doctor` |
