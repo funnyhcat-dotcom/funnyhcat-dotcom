@@ -6,6 +6,7 @@ I build small, practical developer tools that solve everyday workflow problems.
 
 | Project | What it does | Try it |
 |---|---|---|
+| **[api-session-management-doctor](https://github.com/funnyhcat-dotcom/api-session-management-doctor)** | Audits session-management docs for creation, cookie attributes, idle/absolute timeout, renewal, logout invalidation, MFA, device UI, concurrency, CSRF, risk detection, storage, tests, and ownership. | `npx api-session-management-doctor` |
 | **[api-openapi-security-scheme-doctor](https://github.com/funnyhcat-dotcom/api-openapi-security-scheme-doctor)** | Audits OpenAPI security scheme docs for securitySchemes, operation security, OAuth flows/scopes, bearer/JWT validation, API key locations, errors, rotation, docs consistency, and CI linting. | `npx api-openapi-security-scheme-doctor` |
 | **[api-request-signing-doctor](https://github.com/funnyhcat-dotcom/api-request-signing-doctor)** | Audits API request-signing docs for algorithms, canonical requests, signed headers, payload hashes, replay protection, key rotation, verification errors, examples, SDKs, and monitoring. | `npx api-request-signing-doctor` |
 | **[api-json-schema-compat-doctor](https://github.com/funnyhcat-dotcom/api-json-schema-compat-doctor)** | Audits JSON Schema compatibility docs for backward/forward rules, required fields, additionalProperties, type changes, enums, defaults, versioning, validation, diff checks, rollout, and ownership. | `npx api-json-schema-compat-doctor` |
