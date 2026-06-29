@@ -6,6 +6,7 @@ I build small, practical developer tools that solve everyday workflow problems.
 
 | Project | What it does | Try it |
 |---|---|---|
+| **[openapi-auth-doctor](https://github.com/funnyhcat-dotcom/openapi-auth-doctor)** | Audit OpenAPI auth configuration for missing securitySchemes, unprotected operations, weak API key placement, OAuth scope drift, and inconsistent operation security | `npx openapi-auth-doctor` |
 | **[json-schema-compat-doctor](https://github.com/funnyhcat-dotcom/json-schema-compat-doctor)** | Compare two JSON Schemas and flag breaking changes in required fields, types, enums, object properties, array items, and numeric/string constraints | `npx json-schema-compat-doctor` |
 | **[oauth-redirect-uri-doctor](https://github.com/funnyhcat-dotcom/oauth-redirect-uri-doctor)** | Audit OAuth redirect URI allowlists for wildcard risks, localhost leaks, insecure schemes, production drift, duplicates, and takeover-prone callback patterns | `npx oauth-redirect-uri-doctor` |
 | **[cors-preflight-doctor](https://github.com/funnyhcat-dotcom/cors-preflight-doctor)** | Audit CORS and OPTIONS preflight responses for safe origins, credentials, methods, headers, cache duration, and browser-friendly API behavior | `npx cors-preflight-doctor` |
