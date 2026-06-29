@@ -6,6 +6,7 @@ I build small, practical developer tools that solve everyday workflow problems.
 
 | Project | What it does | Try it |
 |---|---|---|
+| **[api-migration-guide-doctor](https://github.com/funnyhcat-dotcom/api-migration-guide-doctor)** | Scores API migration guides for steps, mappings, examples, validation, rollback, rollout, SDK impact, and troubleshooting. | `npx api-migration-guide-doctor` |
 | **[api-sunset-header-doctor](https://github.com/funnyhcat-dotcom/api-sunset-header-doctor)** | Audits API docs for Sunset/Deprecation headers, timelines, migration guides, and post-sunset errors. | `npx api-sunset-header-doctor` |
 | **[api-breaking-change-doctor](https://github.com/funnyhcat-dotcom/api-breaking-change-doctor)** | Audits API breaking-change docs for definitions, concrete breaking/non-breaking examples, versioning strategy, deprecation and Sunset policy, notice periods, migration guides, changelogs, customer communication, before/after examples, removed-version errors, SDK/client impact, and compatibility governance. | `npx api-breaking-change-doctor` |
 | **[api-sla-status-doctor](https://github.com/funnyhcat-dotcom/api-sla-status-doctor)** | Audits API SLA/status docs for uptime targets, measurement windows, included/excluded downtime, covered components, availability formulas, service credits, claim process, authoritative status sources, examples, errors, reports/history, notifications, and compatibility. | `npx api-sla-status-doctor` |
