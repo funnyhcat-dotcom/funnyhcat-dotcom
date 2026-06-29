@@ -6,6 +6,7 @@ I build small, practical developer tools that solve everyday workflow problems.
 
 | Project | What it does | Try it |
 |---|---|---|
+| **[api-date-time-doctor](https://github.com/funnyhcat-dotcom/api-date-time-doctor)** | Audits API date/time docs for ISO-8601/RFC3339, UTC/timezones, precision, date-only fields, Unix timestamps, ranges, DST, filters, validation, SDK parsing, and migration notes. | `npx api-date-time-doctor` |
 | **[api-filter-operator-doctor](https://github.com/funnyhcat-dotcom/api-filter-operator-doctor)** | Audits API filter operator docs for exact syntax, supported operators, type compatibility, null/empty behavior, encoding, limits, validation errors, and security boundaries. | `npx api-filter-operator-doctor` |
 | **[api-field-mask-doctor](https://github.com/funnyhcat-dotcom/api-field-mask-doctor)** | Audits API sparse fields, field mask, include, and expand docs for syntax, allowed fields, nested paths, defaults, validation, permissions, cache, and SDK/OpenAPI notes. | `npx api-field-mask-doctor` |
 | **[sdk-pagination-doctor](https://github.com/funnyhcat-dotcom/sdk-pagination-doctor)** | Audits SDK pagination docs for cursor models, auto-pagination, iterators, manual loops, limits, stop conditions, ordering stability, resume behavior, and memory safety. | `npx sdk-pagination-doctor` |
