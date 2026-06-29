@@ -6,6 +6,7 @@ I build small, practical developer tools that solve everyday workflow problems.
 
 | Project | What it does | Try it |
 |---|---|---|
+| **[cors-preflight-doctor](https://github.com/funnyhcat-dotcom/cors-preflight-doctor)** | Audit CORS and OPTIONS preflight responses for safe origins, credentials, methods, headers, cache duration, and browser-friendly API behavior | `npx cors-preflight-doctor` |
 | **[api-versioning-doctor](https://github.com/funnyhcat-dotcom/api-versioning-doctor)** | Audit API versioning signals for clear lifecycle policy, stable headers, deprecation metadata, and client-safe evolution | `npx api-versioning-doctor` |
 | **[rate-limit-header-doctor](https://github.com/funnyhcat-dotcom/rate-limit-header-doctor)** | Audit API rate limit headers for standard fields, reset timing, retry-after behavior, remaining limits, and client-friendly throttling metadata | `npx rate-limit-header-doctor` |
 | **[webhook-payload-doctor](https://github.com/funnyhcat-dotcom/webhook-payload-doctor)** | Audit webhook payload samples for stable event shape, IDs, timestamps, signatures, retries, versioning, and safe data exposure | `npx webhook-payload-doctor` |
