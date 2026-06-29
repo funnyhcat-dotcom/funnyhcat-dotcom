@@ -6,6 +6,7 @@ I build small, practical developer tools that solve everyday workflow problems.
 
 | Project | What it does | Try it |
 |---|---|---|
+| **[api-filter-operator-doctor](https://github.com/funnyhcat-dotcom/api-filter-operator-doctor)** | Audits API filter operator docs for exact syntax, supported operators, type compatibility, null/empty behavior, encoding, limits, validation errors, and security boundaries. | `npx api-filter-operator-doctor` |
 | **[api-field-mask-doctor](https://github.com/funnyhcat-dotcom/api-field-mask-doctor)** | Audits API sparse fields, field mask, include, and expand docs for syntax, allowed fields, nested paths, defaults, validation, permissions, cache, and SDK/OpenAPI notes. | `npx api-field-mask-doctor` |
 | **[sdk-pagination-doctor](https://github.com/funnyhcat-dotcom/sdk-pagination-doctor)** | Audits SDK pagination docs for cursor models, auto-pagination, iterators, manual loops, limits, stop conditions, ordering stability, resume behavior, and memory safety. | `npx sdk-pagination-doctor` |
 | **[sdk-retry-doctor](https://github.com/funnyhcat-dotcom/sdk-retry-doctor)** | Audits SDK docs for retry defaults, backoff, jitter, Retry-After, timeout config, idempotency, unsafe methods, observability, and testing. | `npx sdk-retry-doctor` |
