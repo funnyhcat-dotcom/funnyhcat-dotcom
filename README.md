@@ -6,6 +6,7 @@ I build small, practical developer tools that solve everyday workflow problems.
 
 | Project | What it does | Try it |
 |---|---|---|
+| **[pricing-page-doctor](https://github.com/funnyhcat-dotcom/pricing-page-doctor)** | Audit SaaS and product pricing pages for clear prices, billing periods, currencies, CTAs, feature comparison, FAQs, cancellation/refund notes, and SEO/schema signals. | `npx pricing-page-doctor` |
 | **[image-asset-doctor](https://github.com/funnyhcat-dotcom/image-asset-doctor)** | Audit static sites for image asset hygiene: oversized files, missing width/height, lazy loading, modern formats, duplicate assets, and unreferenced images. | `npx image-asset-doctor` |
 | **[seo-canonical-doctor](https://github.com/funnyhcat-dotcom/seo-canonical-doctor)** | Audit HTML pages for canonical URL hygiene, og:url alignment, hreflang clusters, robots conflicts, relative canonicals, and duplicate URL signals. | `npx seo-canonical-doctor` |
 | **[frontend-env-leak-doctor](https://github.com/funnyhcat-dotcom/frontend-env-leak-doctor)** | Audit frontend source and build artifacts for exposed secrets, unsafe public environment variables, API keys, tokens, source maps, and client-side credential leaks. | `npx frontend-env-leak-doctor` |
