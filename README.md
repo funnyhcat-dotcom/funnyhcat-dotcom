@@ -6,6 +6,7 @@ I build small, practical developer tools that solve everyday workflow problems.
 
 | Project | What it does | Try it |
 |---|---|---|
+| **[api-openapi-pagination-doctor](https://github.com/funnyhcat-dotcom/api-openapi-pagination-doctor)** | Audits OpenAPI pagination docs for style, parameters, response envelope, links, stable ordering, limits, cursor lifetime, errors, filters, mutations, SDK guidance, and compatibility. | `npx api-openapi-pagination-doctor` |
 | **[api-oauth-consent-screen-doctor](https://github.com/funnyhcat-dotcom/api-oauth-consent-screen-doctor)** | Audits OAuth consent-screen docs for app identity, scopes, plain-language purpose, risks, privacy disclosures, redirect URI safety, revocation, offline access, examples, and support. | `npx api-oauth-consent-screen-doctor` |
 | **[api-audit-log-export-doctor](https://github.com/funnyhcat-dotcom/api-audit-log-export-doctor)** | Audits audit-log export docs for schema, filters, formats, integrity signatures, chain-of-custody, permissions, redaction, retention, async jobs, limits, and SIEM guidance. | `npx api-audit-log-export-doctor` |
 | **[api-webhook-ordering-doctor](https://github.com/funnyhcat-dotcom/api-webhook-ordering-doctor)** | Audits webhook ordering docs for ordering guarantees, sequence numbers, partition keys, idempotency, retries, out-of-order handling, replay, DLQ, signatures, and monitoring. | `npx api-webhook-ordering-doctor` |
