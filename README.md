@@ -6,6 +6,7 @@ I build small, practical developer tools that solve everyday workflow problems.
 
 | Project | What it does | Try it |
 |---|---|---|
+| **[api-version-header-doctor](https://github.com/funnyhcat-dotcom/api-version-header-doctor)** | Audit API docs and code for version negotiation headers, default versions, Sunset/Deprecation headers, compatibility policy, and migration guidance. | `npx api-version-header-doctor` |
 | **[api-webhook-docs-doctor](https://github.com/funnyhcat-dotcom/api-webhook-docs-doctor)** | Audit API webhook documentation for event catalogs, payload examples, signatures, retries, idempotency, testing, versioning, and operational guidance. | `npx api-webhook-docs-doctor` |
 | **[rate-limit-policy-doctor](https://github.com/funnyhcat-dotcom/rate-limit-policy-doctor)** | Audit API rate limit documentation for quotas, windows, identity dimensions, response headers, 429 examples, Retry-After, burst behavior, and upgrade paths. | `npx rate-limit-policy-doctor` |
 | **[api-timeout-doctor](https://github.com/funnyhcat-dotcom/api-timeout-doctor)** | Audit API clients and docs for timeout defaults, cancellation, retry budgets, backoff, idempotency, rate-limit handling, and long-running request guidance. | `npx api-timeout-doctor` |
