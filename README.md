@@ -6,6 +6,7 @@ I build small, practical developer tools that solve everyday workflow problems.
 
 | Project | What it does | Try it |
 |---|---|---|
+| **[api-docs-doctor-suite](https://github.com/funnyhcat-dotcom/api-docs-doctor-suite)** | Unified API/SaaS docs quality suite that auto-detects launch, migration, webhook, billing, refund, privacy, and ops docs; outputs text, Markdown, or JSON reports for CI. | `npx api-docs-doctor-suite` |
 | **[api-refund-policy-doctor](https://github.com/funnyhcat-dotcom/api-refund-policy-doctor)** | Audits refund policy docs for eligibility, non-refundable cases, partial refunds, refund timing, credits, tax/currency, intake, approvals, SLA, API examples, communication, audit, metrics, and ownership. | `npx api-refund-policy-doctor` |
 | **[api-subscription-plan-change-doctor](https://github.com/funnyhcat-dotcom/api-subscription-plan-change-doctor)** | Audits subscription plan change docs for upgrades, downgrades, proration, invoices, refunds, entitlements, permissions, previews, webhooks, support, audit, and ownership. | `npx api-subscription-plan-change-doctor` |
 | **[api-data-subprocessor-doctor](https://github.com/funnyhcat-dotcom/api-data-subprocessor-doctor)** | Audits data subprocessor disclosures for vendors, purpose, data categories, regions, DPA/legal terms, security controls, change notices, objections, retention, transfer mechanisms, and ownership. | `npx api-data-subprocessor-doctor` |
