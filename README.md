@@ -6,6 +6,7 @@ I build small, practical developer tools that solve everyday workflow problems.
 
 | Project | What it does | Try it |
 |---|---|---|
+| **[api-consistency-doctor](https://github.com/funnyhcat-dotcom/api-consistency-doctor)** | Audits cross-endpoint API docs for consistent naming, IDs, timestamps, pagination, errors, status codes, filtering/sorting, money amounts, auth, rate limits, versioning, examples, webhooks/events, and OpenAPI style governance. | `npx api-consistency-doctor` |
 | **[api-schema-evolution-doctor](https://github.com/funnyhcat-dotcom/api-schema-evolution-doctor)** | Audits API schema evolution docs for compatibility policy, additive/breaking changes, unknown fields, enum expansion, deprecation, versioning, migration windows, changelogs, SDK/OpenAPI behavior, examples, testing, webhooks/events, and version errors. | `npx api-schema-evolution-doctor` |
 | **[api-batch-job-doctor](https://github.com/funnyhcat-dotcom/api-batch-job-doctor)** | Audits async batch/job API docs for 202 creation, status polling, state machines, progress, cancellation, retry/idempotency, result downloads, per-item errors, expiry, webhooks, limits, examples, and permissions. | `npx api-batch-job-doctor` |
 | **[api-metadata-doctor](https://github.com/funnyhcat-dotcom/api-metadata-doctor)** | Audits API metadata/custom fields docs for key/value limits, types, nesting, validation, delete/unset semantics, search/indexing, privacy/security, examples, webhooks, permissions, reserved keys, and migration/export behavior. | `npx api-metadata-doctor` |
