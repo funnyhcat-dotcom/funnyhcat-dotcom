@@ -6,6 +6,7 @@ I build small, practical developer tools that solve everyday workflow problems.
 
 | Project | What it does | Try it |
 |---|---|---|
+| **[repo-funding-doctor](https://github.com/funnyhcat-dotcom/repo-funding-doctor)** | Audit GitHub FUNDING.yml and README sponsor/support signals for mature, trustworthy open-source project funding setup. | `npx repo-funding-doctor` |
 | **[repo-citation-doctor](https://github.com/funnyhcat-dotcom/repo-citation-doctor)** | Audit repository citation metadata: CITATION.cff, authors, title, version, DOI/URL, license, and README citation guidance. | `npx repo-citation-doctor` |
 | **[community-health-doctor](https://github.com/funnyhcat-dotcom/community-health-doctor)** | Audit GitHub repository community health files: README, LICENSE, SECURITY, CONTRIBUTING, templates, CODEOWNERS, workflows, and more. | `npx community-health-doctor` |
 | **[security-policy-doctor](https://github.com/funnyhcat-dotcom/security-policy-doctor)** | Audit SECURITY.md files for supported versions, private vulnerability reporting, response expectations, scope, and contact quality. | `npx security-policy-doctor` |
