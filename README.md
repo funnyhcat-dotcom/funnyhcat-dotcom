@@ -6,6 +6,7 @@ I build small, practical developer tools that solve everyday workflow problems.
 
 | Project | What it does | Try it |
 |---|---|---|
+| **[api-pagination-doctor](https://github.com/funnyhcat-dotcom/api-pagination-doctor)** | Audit API pagination responses for stable shape, cursors, limits, totals, links, and client-friendly metadata | `npx api-pagination-doctor` |
 | **[api-error-shape-doctor](https://github.com/funnyhcat-dotcom/api-error-shape-doctor)** | Audit API error responses for consistent JSON shape, safe messages, status/code alignment, and RFC 7807 readiness | `npx api-error-shape-doctor` |
 | **[link-preview-doctor](https://github.com/funnyhcat-dotcom/link-preview-doctor)** | Audit Open Graph, Twitter Card, canonical, favicon, and social link preview metadata before sharing pages | `npx link-preview-doctor` |
 | **[aria-landmark-doctor](https://github.com/funnyhcat-dotcom/aria-landmark-doctor)** | Audit HTML pages for accessibility landmarks, heading structure, skip links, document language, and ARIA navigation issues | `npx aria-landmark-doctor` |
