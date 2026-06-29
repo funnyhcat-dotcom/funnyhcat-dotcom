@@ -6,6 +6,7 @@ I build small, practical developer tools that solve everyday workflow problems.
 
 | Project | What it does | Try it |
 |---|---|---|
+| **[api-circuit-breaker-docs-doctor](https://github.com/funnyhcat-dotcom/api-circuit-breaker-docs-doctor)** | Audits circuit breaker docs for states, thresholds, rolling windows, fallback, retries, error classification, observability, testing, and runbooks. | `npx api-circuit-breaker-docs-doctor` |
 | **[api-usage-metering-doctor](https://github.com/funnyhcat-dotcom/api-usage-metering-doctor)** | Audits usage metering/billing docs for billable units, aggregation, rounding, idempotency, late events, quotas, usage APIs, privacy, auditability, and versioning. | `npx api-usage-metering-doctor` |
 | **[api-webhook-dead-letter-doctor](https://github.com/funnyhcat-dotcom/api-webhook-dead-letter-doctor)** | Audits webhook dead-letter docs for DLQ behavior, failure criteria, retries, failed records, replay, idempotency, retention, privacy, signatures, ordering, and alerts. | `npx api-webhook-dead-letter-doctor` |
 | **[api-json-merge-patch-doctor](https://github.com/funnyhcat-dotcom/api-json-merge-patch-doctor)** | Audits JSON Merge Patch docs for RFC 7396 media type, null deletion, omitted fields, array replacement, examples, validation, ETags, errors, and safety. | `npx api-json-merge-patch-doctor` |
