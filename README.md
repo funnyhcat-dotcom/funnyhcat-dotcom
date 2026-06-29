@@ -6,6 +6,7 @@ I build small, practical developer tools that solve everyday workflow problems.
 
 | Project | What it does | Try it |
 |---|---|---|
+| **[redirect-chain-doctor](https://github.com/funnyhcat-dotcom/redirect-chain-doctor)** | Inspect URL redirect chains for hops, loops, HTTPS downgrades, tracking parameters, status codes, and SEO issues | `npx redirect-chain-doctor` |
 | **[csp-policy-doctor](https://github.com/funnyhcat-dotcom/csp-policy-doctor)** | Audit Content-Security-Policy headers for unsafe directives, missing protections, reporting, and deploy readiness | `npx csp-policy-doctor` |
 | **[cookie-security-doctor](https://github.com/funnyhcat-dotcom/cookie-security-doctor)** | Audit `Set-Cookie` headers for Secure, HttpOnly, SameSite, prefixes, expiry, domain, and third-party cookie issues | `npx cookie-security-doctor` |
 | **[sri-integrity-doctor](https://github.com/funnyhcat-dotcom/sri-integrity-doctor)** | Audit HTML script and stylesheet tags for SRI, crossorigin, referrerpolicy, and CDN safety issues | `npx sri-integrity-doctor` |
