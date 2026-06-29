@@ -6,6 +6,7 @@ I build small, practical developer tools that solve everyday workflow problems.
 
 | Project | What it does | Try it |
 |---|---|---|
+| **[api-tenant-isolation-docs-doctor](https://github.com/funnyhcat-dotcom/api-tenant-isolation-docs-doctor)** | Audits SaaS/API tenant isolation docs for identity claims, authorization, data partitioning, cross-tenant prevention, audit logs, caches, storage, events, tests, and incidents. | `npx api-tenant-isolation-docs-doctor` |
 | **[api-cursor-pagination-doctor](https://github.com/funnyhcat-dotcom/api-cursor-pagination-doctor)** | Audits API cursor pagination docs for parameters, response shape, traversal, limits, ordering, opaque cursors, errors, SDK loops, and performance notes. | `npx api-cursor-pagination-doctor` |
 | **[api-sandbox-environment-doctor](https://github.com/funnyhcat-dotcom/api-sandbox-environment-doctor)** | Audits API sandbox/test environment docs for base URLs, credentials, test data, cleanup, webhooks, isolation, limits, go-live guidance, and safety warnings. | `npx api-sandbox-environment-doctor` |
 | **[api-openapi-example-doctor](https://github.com/funnyhcat-dotcom/api-openapi-example-doctor)** | Audits OpenAPI docs for practical examples: requests, responses, errors, auth, pagination, idempotency, webhooks, realistic values, and validation hints. | `npx api-openapi-example-doctor` |
