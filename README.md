@@ -6,6 +6,7 @@ I build small, practical developer tools that solve everyday workflow problems.
 
 | Project | What it does | Try it |
 |---|---|---|
+| **[api-support-escalation-doctor](https://github.com/funnyhcat-dotcom/api-support-escalation-doctor)** | Audits support escalation docs for severity, SLA targets, routing, ownership, escalation paths, customer impact, ticket fields, privacy, communications, incidents, handoff, metrics, and review. | `npx api-support-escalation-doctor` |
 | **[api-user-invite-flow-doctor](https://github.com/funnyhcat-dotcom/api-user-invite-flow-doctor)** | Audits user-invite flow docs for scope, invite creation, token security, expiration, acceptance, roles, revocation, duplicates, domain policy, abuse controls, email, audit events, examples, and monitoring. | `npx api-user-invite-flow-doctor` |
 | **[api-status-page-incident-doctor](https://github.com/funnyhcat-dotcom/api-status-page-incident-doctor)** | Audits status-page incident communication docs for scope, severity, components, timelines, customer language, mitigation, resolution, subscribers, SLA/SLO, templates, accessibility, and ownership. | `npx api-status-page-incident-doctor` |
 | **[api-incident-postmortem-doctor](https://github.com/funnyhcat-dotcom/api-incident-postmortem-doctor)** | Audits incident postmortems for summary, timeline, impact, detection, root cause, mitigation, communication, what went well/wrong, action items, prevention, blamelessness, severity, and ownership. | `npx api-incident-postmortem-doctor` |
