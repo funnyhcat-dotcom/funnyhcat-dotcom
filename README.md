@@ -6,6 +6,7 @@ I build small, practical developer tools that solve everyday workflow problems.
 
 | Project | What it does | Try it |
 |---|---|---|
+| **[branch-protection-doctor](https://github.com/funnyhcat-dotcom/branch-protection-doctor)** | Audit GitHub branch protection JSON for PR reviews, status checks, admin enforcement, conversation resolution, and force-push safety. | `npx branch-protection-doctor` |
 | **[codeowners-doctor](https://github.com/funnyhcat-dotcom/codeowners-doctor)** | Audit GitHub CODEOWNERS files for valid owner syntax, fallback coverage, critical paths, duplicate patterns, and review readiness. | `npx codeowners-doctor` |
 | **[contributing-guide-doctor](https://github.com/funnyhcat-dotcom/contributing-guide-doctor)** | Audit CONTRIBUTING guides for setup steps, test commands, PR workflow, coding standards, and security reporting. | `npx contributing-guide-doctor` |
 | **[changelog-doctor](https://github.com/funnyhcat-dotcom/changelog-doctor)** | Audit CHANGELOG files for useful release notes, semantic versions, dates, categories, security entries, and placeholders. | `npx changelog-doctor` |
