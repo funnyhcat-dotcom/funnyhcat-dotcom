@@ -6,6 +6,7 @@ I build small, practical developer tools that solve everyday workflow problems.
 
 | Project | What it does | Try it |
 |---|---|---|
+| **[community-health-doctor](https://github.com/funnyhcat-dotcom/community-health-doctor)** | Audit GitHub repository community health files: README, LICENSE, SECURITY, CONTRIBUTING, templates, CODEOWNERS, workflows, and more. | `npx community-health-doctor` |
 | **[security-policy-doctor](https://github.com/funnyhcat-dotcom/security-policy-doctor)** | Audit SECURITY.md files for supported versions, private vulnerability reporting, response expectations, scope, and contact quality. | `npx security-policy-doctor` |
 | **[branch-protection-doctor](https://github.com/funnyhcat-dotcom/branch-protection-doctor)** | Audit GitHub branch protection JSON for PR reviews, status checks, admin enforcement, conversation resolution, and force-push safety. | `npx branch-protection-doctor` |
 | **[codeowners-doctor](https://github.com/funnyhcat-dotcom/codeowners-doctor)** | Audit GitHub CODEOWNERS files for valid owner syntax, fallback coverage, critical paths, duplicate patterns, and review readiness. | `npx codeowners-doctor` |
