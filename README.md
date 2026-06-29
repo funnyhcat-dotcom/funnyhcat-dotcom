@@ -6,6 +6,7 @@ I build small, practical developer tools that solve everyday workflow problems.
 
 | Project | What it does | Try it |
 |---|---|---|
+| **[api-import-export-doctor](https://github.com/funnyhcat-dotcom/api-import-export-doctor)** | Audits API import/export docs for file formats, schema mapping, row-level validation errors, async jobs, limits, idempotency, privacy, export filters, signed download links, webhooks, retries, auditability, examples, and troubleshooting. | `npx api-import-export-doctor` |
 | **[api-test-data-doctor](https://github.com/funnyhcat-dotcom/api-test-data-doctor)** | Audits API test data/fixture docs for seed/reset, deterministic IDs, isolation, cleanup, clock control, random data strategy, sensitive data, CI usage, limits, examples, assertions, versioning, and troubleshooting. | `npx api-test-data-doctor` |
 | **[api-sandbox-doctor](https://github.com/funnyhcat-dotcom/api-sandbox-doctor)** | Audits API sandbox/test mode docs for purpose, base URL, test credentials, sample data, scenarios, webhook testing, production differences, limits, reset/cleanup, isolation/safety, examples, go-live checklist, and troubleshooting. | `npx api-sandbox-doctor` |
 | **[api-client-errors-doctor](https://github.com/funnyhcat-dotcom/api-client-errors-doctor)** | Audits SDK/client error docs for error classes, properties, status mapping, retryable errors, network timeouts, validation details, auth/rate limits, examples, request/trace ID logging, safe display, TypeScript types, testing, and problem+json access. | `npx api-client-errors-doctor` |
