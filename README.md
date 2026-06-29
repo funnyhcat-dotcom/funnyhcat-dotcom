@@ -6,6 +6,7 @@ I build small, practical developer tools that solve everyday workflow problems.
 
 | Project | What it does | Try it |
 |---|---|---|
+| **[cookie-security-doctor](https://github.com/funnyhcat-dotcom/cookie-security-doctor)** | Audit `Set-Cookie` headers for Secure, HttpOnly, SameSite, prefixes, expiry, domain, and third-party cookie issues | `npx cookie-security-doctor` |
 | **[sri-integrity-doctor](https://github.com/funnyhcat-dotcom/sri-integrity-doctor)** | Audit HTML script and stylesheet tags for SRI, crossorigin, referrerpolicy, and CDN safety issues | `npx sri-integrity-doctor` |
 | **[web-manifest-doctor](https://github.com/funnyhcat-dotcom/web-manifest-doctor)** | Audit PWA web app manifests for installability, icons, display, scope, shortcuts, and store-readiness | `npx web-manifest-doctor` |
 | **[image-alt-doctor](https://github.com/funnyhcat-dotcom/image-alt-doctor)** | Audit HTML images for alt text, lazy loading, dimensions, responsive sources, SEO, and performance issues | `npx image-alt-doctor` |
