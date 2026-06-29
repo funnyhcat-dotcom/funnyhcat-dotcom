@@ -6,6 +6,7 @@ I build small, practical developer tools that solve everyday workflow problems.
 
 | Project | What it does | Try it |
 |---|---|---|
+| **[csv-header-doctor](https://github.com/funnyhcat-dotcom/csv-header-doctor)** | Audit CSV headers for duplicates, empty columns, unsafe formulas, and messy names | `npx csv-header-doctor` |
 | **[json-lines-doctor](https://github.com/funnyhcat-dotcom/json-lines-doctor)** | Validate, compact, and summarize NDJSON/JSONL files from the terminal | `npx json-lines-doctor` |
 | **[dotenv-quote-fixer](https://github.com/funnyhcat-dotcom/dotenv-quote-fixer)** | Normalize `.env` quoting and catch fragile env lines before deploys break | `npx dotenv-quote-fixer` |
 | **[yaml-env-checker](https://github.com/funnyhcat-dotcom/yaml-env-checker)** | Find environment variables referenced in YAML but missing from `.env.example` | `npx yaml-env-checker` |
