@@ -6,6 +6,7 @@ I build small, practical developer tools that solve everyday workflow problems.
 
 | Project | What it does | Try it |
 |---|---|---|
+| **[cron-schedule-doctor](https://github.com/funnyhcat-dotcom/cron-schedule-doctor)** | Audit cron schedules for risky frequency, missing timezone notes, DST surprises, overlapping jobs, dangerous commands, logging gaps, and production reliability | `npx cron-schedule-doctor` |
 | **[compose-file-doctor](https://github.com/funnyhcat-dotcom/compose-file-doctor)** | Audit Docker Compose files for safer local and production defaults: exposed ports, privileged containers, latest images, secrets, healthchecks, volumes, and restart policy | `npx compose-file-doctor` |
 | **[nginx-config-doctor](https://github.com/funnyhcat-dotcom/nginx-config-doctor)** | Audit Nginx configs for TLS, HSTS, security headers, proxy forwarding, gzip safety, server_tokens, redirects, and production reverse-proxy readiness | `npx nginx-config-doctor` |
 | **[terraform-vars-doctor](https://github.com/funnyhcat-dotcom/terraform-vars-doctor)** | Audit Terraform variables and tfvars for secret leaks, unsafe defaults, missing descriptions, weak typing, provider pinning, backend hygiene, and IaC readiness | `npx terraform-vars-doctor` |
