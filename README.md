@@ -6,6 +6,7 @@ I build small, practical developer tools that solve everyday workflow problems.
 
 | Project | What it does | Try it |
 |---|---|---|
+| **[backup-readiness-doctor](https://github.com/funnyhcat-dotcom/backup-readiness-doctor)** | Audit backup policy/config JSON for encryption, offsite copies, retention, restore drills, RPO/RTO, monitoring, ownership, and production recovery readiness | `npx backup-readiness-doctor` |
 | **[feature-flag-doctor](https://github.com/funnyhcat-dotcom/feature-flag-doctor)** | Audit feature flag configs for owners, expiry dates, safe defaults, rollout percentages, kill switches, stale flags, targeting risks, and cleanup readiness | `npx feature-flag-doctor` |
 | **[sql-migration-doctor](https://github.com/funnyhcat-dotcom/sql-migration-doctor)** | Audit SQL migration files for destructive changes, missing transactions, lock risks, unsafe defaults, concurrent indexes, rollback notes, and production deploy readiness | `npx sql-migration-doctor` |
 | **[cron-schedule-doctor](https://github.com/funnyhcat-dotcom/cron-schedule-doctor)** | Audit cron schedules for risky frequency, missing timezone notes, DST surprises, overlapping jobs, dangerous commands, logging gaps, and production reliability | `npx cron-schedule-doctor` |
