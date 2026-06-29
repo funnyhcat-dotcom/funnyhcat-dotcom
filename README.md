@@ -6,6 +6,7 @@ I build small, practical developer tools that solve everyday workflow problems.
 
 | Project | What it does | Try it |
 |---|---|---|
+| **[api-sandbox-environment-doctor](https://github.com/funnyhcat-dotcom/api-sandbox-environment-doctor)** | Audits API sandbox/test environment docs for base URLs, credentials, test data, cleanup, webhooks, isolation, limits, go-live guidance, and safety warnings. | `npx api-sandbox-environment-doctor` |
 | **[api-openapi-example-doctor](https://github.com/funnyhcat-dotcom/api-openapi-example-doctor)** | Audits OpenAPI docs for practical examples: requests, responses, errors, auth, pagination, idempotency, webhooks, realistic values, and validation hints. | `npx api-openapi-example-doctor` |
 | **[api-request-id-doctor](https://github.com/funnyhcat-dotcom/api-request-id-doctor)** | Audits API docs for request IDs, correlation IDs, trace context, propagation, logging, support workflows, SDK access, and privacy. | `npx api-request-id-doctor` |
 | **[api-error-code-catalog-doctor](https://github.com/funnyhcat-dotcom/api-error-code-catalog-doctor)** | Audits API error docs for stable codes, HTTP status mapping, retryability, SDK handling, observability, and privacy. | `npx api-error-code-catalog-doctor` |
