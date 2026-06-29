@@ -6,6 +6,7 @@ I build small, practical developer tools that solve everyday workflow problems.
 
 | Project | What it does | Try it |
 |---|---|---|
+| **[api-user-invite-flow-doctor](https://github.com/funnyhcat-dotcom/api-user-invite-flow-doctor)** | Audits user-invite flow docs for scope, invite creation, token security, expiration, acceptance, roles, revocation, duplicates, domain policy, abuse controls, email, audit events, examples, and monitoring. | `npx api-user-invite-flow-doctor` |
 | **[api-status-page-incident-doctor](https://github.com/funnyhcat-dotcom/api-status-page-incident-doctor)** | Audits status-page incident communication docs for scope, severity, components, timelines, customer language, mitigation, resolution, subscribers, SLA/SLO, templates, accessibility, and ownership. | `npx api-status-page-incident-doctor` |
 | **[api-incident-postmortem-doctor](https://github.com/funnyhcat-dotcom/api-incident-postmortem-doctor)** | Audits incident postmortems for summary, timeline, impact, detection, root cause, mitigation, communication, what went well/wrong, action items, prevention, blamelessness, severity, and ownership. | `npx api-incident-postmortem-doctor` |
 | **[api-backup-restore-runbook-doctor](https://github.com/funnyhcat-dotcom/api-backup-restore-runbook-doctor)** | Audits backup/restore runbooks for assets, RPO/RTO, frequency, PITR, encryption, prechecks, restore steps, verification, rollback, drills, monitoring, audit evidence, automation, and ownership. | `npx api-backup-restore-runbook-doctor` |
