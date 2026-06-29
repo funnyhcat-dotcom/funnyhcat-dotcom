@@ -6,6 +6,7 @@ I build small, practical developer tools that solve everyday workflow problems.
 
 | Project | What it does | Try it |
 |---|---|---|
+| **[sbom-doctor](https://github.com/funnyhcat-dotcom/sbom-doctor)** | Audit repositories for SBOM presence, SPDX/CycloneDX references, generation commands, CI publishing, release attachment, and supply-chain documentation. | `npx sbom-doctor` |
 | **[release-assets-doctor](https://github.com/funnyhcat-dotcom/release-assets-doctor)** | Audit GitHub release notes and asset manifests for binaries, checksums, SBOM, provenance, install commands, upgrade notes, and platform coverage. | `npx release-assets-doctor` |
 | **[renovate-config-doctor](https://github.com/funnyhcat-dotcom/renovate-config-doctor)** | Audit Renovate configuration for presets, schedules, labels, reviewers, package rules, automerge safety, PR limits, and dependency update hygiene. | `npx renovate-config-doctor` |
 | **[repo-funding-doctor](https://github.com/funnyhcat-dotcom/repo-funding-doctor)** | Audit GitHub FUNDING.yml and README sponsor/support signals for mature, trustworthy open-source project funding setup. | `npx repo-funding-doctor` |
