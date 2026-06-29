@@ -6,6 +6,7 @@ I build small, practical developer tools that solve everyday workflow problems.
 
 | Project | What it does | Try it |
 |---|---|---|
+| **[log-redaction-doctor](https://github.com/funnyhcat-dotcom/log-redaction-doctor)** | Audit log redaction configs and sample logs for secret coverage, PII patterns, unsafe allowlists, missing tests, and production logging hygiene | `npx log-redaction-doctor` |
 | **[incident-runbook-doctor](https://github.com/funnyhcat-dotcom/incident-runbook-doctor)** | Audit incident runbooks for ownership, severity, symptoms, dashboards, rollback steps, escalation, customer comms, verification, and last-tested evidence | `npx incident-runbook-doctor` |
 | **[backup-readiness-doctor](https://github.com/funnyhcat-dotcom/backup-readiness-doctor)** | Audit backup policy/config JSON for encryption, offsite copies, retention, restore drills, RPO/RTO, monitoring, ownership, and production recovery readiness | `npx backup-readiness-doctor` |
 | **[feature-flag-doctor](https://github.com/funnyhcat-dotcom/feature-flag-doctor)** | Audit feature flag configs for owners, expiry dates, safe defaults, rollout percentages, kill switches, stale flags, targeting risks, and cleanup readiness | `npx feature-flag-doctor` |
