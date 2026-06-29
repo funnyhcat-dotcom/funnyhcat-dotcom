@@ -6,6 +6,7 @@ I build small, practical developer tools that solve everyday workflow problems.
 
 | Project | What it does | Try it |
 |---|---|---|
+| **[robots-sitemap-doctor](https://github.com/funnyhcat-dotcom/robots-sitemap-doctor)** | Audit robots.txt and sitemap XML for crawlability, sitemap discovery, blocked important paths, broken URL limits, and SEO-safe indexing basics | `npx robots-sitemap-doctor` |
 | **[sdk-readme-doctor](https://github.com/funnyhcat-dotcom/sdk-readme-doctor)** | Audit SDK README files for install commands, quickstart quality, auth setup, examples, errors, pagination, webhooks, TypeScript hints, and release readiness | `npx sdk-readme-doctor` |
 | **[openapi-auth-doctor](https://github.com/funnyhcat-dotcom/openapi-auth-doctor)** | Audit OpenAPI auth configuration for missing securitySchemes, unprotected operations, weak API key placement, OAuth scope drift, and inconsistent operation security | `npx openapi-auth-doctor` |
 | **[json-schema-compat-doctor](https://github.com/funnyhcat-dotcom/json-schema-compat-doctor)** | Compare two JSON Schemas and flag breaking changes in required fields, types, enums, object properties, array items, and numeric/string constraints | `npx json-schema-compat-doctor` |
