@@ -6,6 +6,7 @@ I build small, practical developer tools that solve everyday workflow problems.
 
 | Project | What it does | Try it |
 |---|---|---|
+| **[api-websocket-reconnect-doctor](https://github.com/funnyhcat-dotcom/api-websocket-reconnect-doctor)** | Audits WebSocket docs for endpoint/auth, lifecycle states, heartbeat, reconnect backoff, close codes, subscription restore, resume cursors, delivery guarantees, and client examples. | `npx api-websocket-reconnect-doctor` |
 | **[api-health-check-contract-doctor](https://github.com/funnyhcat-dotcom/api-health-check-contract-doctor)** | Audits health/readiness/liveness check docs for endpoints, status codes, schemas, dependencies, timeouts, exposure, Kubernetes probes, monitoring, and maintenance behavior. | `npx api-health-check-contract-doctor` |
 | **[api-filter-query-doctor](https://github.com/funnyhcat-dotcom/api-filter-query-doctor)** | Audits API filter/query docs for syntax, operators, fields, encoding, examples, errors, performance, injection safety, and SDK builders. | `npx api-filter-query-doctor` |
 | **[api-file-upload-policy-doctor](https://github.com/funnyhcat-dotcom/api-file-upload-policy-doctor)** | Audits API file upload docs for flow, limits, MIME policy, validation, malware scanning, signed URLs, privacy, errors, and cleanup. | `npx api-file-upload-policy-doctor` |
