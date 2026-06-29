@@ -6,6 +6,7 @@ I build small, practical developer tools that solve everyday workflow problems.
 
 | Project | What it does | Try it |
 |---|---|---|
+| **[image-alt-doctor](https://github.com/funnyhcat-dotcom/image-alt-doctor)** | Audit HTML images for alt text, lazy loading, dimensions, responsive sources, SEO, and performance issues | `npx image-alt-doctor` |
 | **[html-form-doctor](https://github.com/funnyhcat-dotcom/html-form-doctor)** | Audit HTML forms for accessibility, UX, validation, security, and autofill issues | `npx html-form-doctor` |
 | **[http-cache-header-doctor](https://github.com/funnyhcat-dotcom/http-cache-header-doctor)** | Audit HTTP caching headers from files, stdin, JSON, or live URLs with profile-based fixes | `npx http-cache-header-doctor` |
 | **[package-exports-doctor](https://github.com/funnyhcat-dotcom/package-exports-doctor)** | Audit `package.json` exports, bin, main, module, and types fields before publishing Node packages | `npx package-exports-doctor` |
