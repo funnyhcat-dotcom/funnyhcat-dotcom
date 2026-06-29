@@ -6,6 +6,7 @@ I build small, practical developer tools that solve everyday workflow problems.
 
 | Project | What it does | Try it |
 |---|---|---|
+| **[api-json-merge-patch-doctor](https://github.com/funnyhcat-dotcom/api-json-merge-patch-doctor)** | Audits JSON Merge Patch docs for RFC 7396 media type, null deletion, omitted fields, array replacement, examples, validation, ETags, errors, and safety. | `npx api-json-merge-patch-doctor` |
 | **[api-outbox-event-doctor](https://github.com/funnyhcat-dotcom/api-outbox-event-doctor)** | Audits transactional outbox/event docs for schema, atomic writes, relay workers, idempotency, ordering, retries, DLQ, monitoring, cleanup, and failures. | `npx api-outbox-event-doctor` |
 | **[api-api-keys-scope-doctor](https://github.com/funnyhcat-dotcom/api-api-keys-scope-doctor)** | Audits API key scope docs for key types, least privilege, rotation, revocation, leak response, audit logs, limits, IP allowlists, and errors. | `npx api-api-keys-scope-doctor` |
 | **[api-sdk-timeout-config-doctor](https://github.com/funnyhcat-dotcom/api-sdk-timeout-config-doctor)** | Audits SDK timeout docs for defaults, phases, overrides, cancellation, retries, errors, streaming, observability, testing, and compatibility. | `npx api-sdk-timeout-config-doctor` |
