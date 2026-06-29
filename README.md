@@ -6,6 +6,7 @@ I build small, practical developer tools that solve everyday workflow problems.
 
 | Project | What it does | Try it |
 |---|---|---|
+| **[npm-publish-doctor](https://github.com/funnyhcat-dotcom/npm-publish-doctor)** | Audit npm packages before publishing for metadata, files/bin correctness, README/LICENSE, private flags, and release hygiene. | `npx npm-publish-doctor` |
 | **[robots-ai-policy-doctor](https://github.com/funnyhcat-dotcom/robots-ai-policy-doctor)** | Audit robots.txt for sitemap hygiene, crawl mistakes, and explicit AI crawler policy for GPTBot, ClaudeBot, PerplexityBot, and more. | `npx robots-ai-policy-doctor` |
 | **[s3-bucket-policy-doctor](https://github.com/funnyhcat-dotcom/s3-bucket-policy-doctor)** | Audit S3 bucket policies for public access, TLS enforcement, dangerous principals, write exposure, and encryption guardrails. | `npx s3-bucket-policy-doctor` |
 | **[email-template-doctor](https://github.com/funnyhcat-dotcom/email-template-doctor)** | Audit transactional/marketing email templates for plain text, unsubscribe links, accessibility, placeholders, and link safety. | `npx email-template-doctor` |
