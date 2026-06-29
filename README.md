@@ -6,6 +6,7 @@ I build small, practical developer tools that solve everyday workflow problems.
 
 | Project | What it does | Try it |
 |---|---|---|
+| **[api-money-amount-doctor](https://github.com/funnyhcat-dotcom/api-money-amount-doctor)** | Audits API money/currency docs for minor units, ISO 4217, zero-decimal currencies, rounding, no-float guidance, min/max, refunds, taxes, exchange rates, validation, SDK/database guidance, and display formatting. | `npx api-money-amount-doctor` |
 | **[api-date-time-doctor](https://github.com/funnyhcat-dotcom/api-date-time-doctor)** | Audits API date/time docs for ISO-8601/RFC3339, UTC/timezones, precision, date-only fields, Unix timestamps, ranges, DST, filters, validation, SDK parsing, and migration notes. | `npx api-date-time-doctor` |
 | **[api-filter-operator-doctor](https://github.com/funnyhcat-dotcom/api-filter-operator-doctor)** | Audits API filter operator docs for exact syntax, supported operators, type compatibility, null/empty behavior, encoding, limits, validation errors, and security boundaries. | `npx api-filter-operator-doctor` |
 | **[api-field-mask-doctor](https://github.com/funnyhcat-dotcom/api-field-mask-doctor)** | Audits API sparse fields, field mask, include, and expand docs for syntax, allowed fields, nested paths, defaults, validation, permissions, cache, and SDK/OpenAPI notes. | `npx api-field-mask-doctor` |
