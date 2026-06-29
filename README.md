@@ -6,6 +6,7 @@ I build small, practical developer tools that solve everyday workflow problems.
 
 | Project | What it does | Try it |
 |---|---|---|
+| **[api-security-headers-doctor](https://github.com/funnyhcat-dotcom/api-security-headers-doctor)** | Audits HTTP security-header docs for CSP, HSTS, clickjacking, nosniff, referrer policy, permissions policy, CORS, cookies, cache/download headers, reporting, rollout, and tests. | `npx api-security-headers-doctor` |
 | **[api-webhook-security-doctor](https://github.com/funnyhcat-dotcom/api-webhook-security-doctor)** | Audits webhook security docs for signatures, canonical payloads, replay protection, secret rotation, verification, TLS, endpoint ownership, retries, idempotency, privacy, monitoring, and incidents. | `npx api-webhook-security-doctor` |
 | **[api-sdk-retry-policy-doctor](https://github.com/funnyhcat-dotcom/api-sdk-retry-policy-doctor)** | Audits SDK retry policy docs for retryable errors, backoff+jitter, max attempts, timeouts, idempotency, Retry-After, cancellation, observability, config, tests, and compatibility. | `npx api-sdk-retry-policy-doctor` |
 | **[api-error-taxonomy-doctor](https://github.com/funnyhcat-dotcom/api-error-taxonomy-doctor)** | Audits API error taxonomy docs for stable codes, HTTP mapping, response schema, retryability, validation details, auth errors, correlation IDs, redaction, examples, SDK handling, and ownership. | `npx api-error-taxonomy-doctor` |
