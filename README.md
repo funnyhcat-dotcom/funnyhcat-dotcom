@@ -6,6 +6,7 @@ I build small, practical developer tools that solve everyday workflow problems.
 
 | Project | What it does | Try it |
 |---|---|---|
+| **[api-soft-delete-doctor](https://github.com/funnyhcat-dotcom/api-soft-delete-doctor)** | Audits API delete/restore docs for soft delete, archive, restore windows, retention, hard purge, list/filter behavior, status codes, cascade effects, audit logs, permissions, compliance, examples, and events. | `npx api-soft-delete-doctor` |
 | **[api-tenant-isolation-doctor](https://github.com/funnyhcat-dotcom/api-tenant-isolation-doctor)** | Audits multi-tenant SaaS API docs for tenant/org/workspace models, identifiers, token scopes, RBAC, cross-tenant errors, audit logs, IDOR prevention, list/search/export scoping, webhooks, residency, testing, and support. | `npx api-tenant-isolation-doctor` |
 | **[api-problem-json-doctor](https://github.com/funnyhcat-dotcom/api-problem-json-doctor)** | Audits RFC 9457 application/problem+json error docs for content type, core fields, type URIs, validation errors, trace IDs, extensions, examples, auth/rate-limit cases, OpenAPI schema reuse, compatibility, and safe details. | `npx api-problem-json-doctor` |
 | **[api-openapi-examples-doctor](https://github.com/funnyhcat-dotcom/api-openapi-examples-doctor)** | Audits OpenAPI/Swagger examples for request bodies, responses, errors, named examples, content types, schema refs, auth, pagination, realistic values, code samples, rate limits, and webhook/event examples. | `npx api-openapi-examples-doctor` |
