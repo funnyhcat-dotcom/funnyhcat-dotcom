@@ -6,6 +6,7 @@ I build small, practical developer tools that solve everyday workflow problems.
 
 | Project | What it does | Try it |
 |---|---|---|
+| **[api-bulk-operation-doctor](https://github.com/funnyhcat-dotcom/api-bulk-operation-doctor)** | Audits bulk API docs for payload shape, limits, async jobs, partial failures, per-item errors, idempotency, retries, ordering, and webhooks. | `npx api-bulk-operation-doctor` |
 | **[docs-quickstart-doctor](https://github.com/funnyhcat-dotcom/docs-quickstart-doctor)** | Audits Quickstart docs for prerequisites, install, first command, expected output, verification, config, auth, troubleshooting, and cleanup. | `npx docs-quickstart-doctor` |
 | **[cli-help-doctor](https://github.com/funnyhcat-dotcom/cli-help-doctor)** | Audits CLI README/help text for install, usage, options, examples, IO, exit codes, env vars, CI, and troubleshooting. | `npx cli-help-doctor` |
 | **[api-filter-sort-doctor](https://github.com/funnyhcat-dotcom/api-filter-sort-doctor)** | Audits API docs for filtering/sorting operators, defaults, tie breakers, pagination stability, limits, and examples. | `npx api-filter-sort-doctor` |
