@@ -6,6 +6,7 @@ I build small, practical developer tools that solve everyday workflow problems.
 
 | Project | What it does | Try it |
 |---|---|---|
+| **[status-page-doctor](https://github.com/funnyhcat-dotcom/status-page-doctor)** | Audit incident/status page updates for customer impact, timestamps, next update, mitigation, support channel, and RCA readiness. | `npx status-page-doctor` |
 | **[release-checklist-doctor](https://github.com/funnyhcat-dotcom/release-checklist-doctor)** | Audit release checklist Markdown for rollback, migrations, monitoring, ownership, smoke tests, rollout, and customer comms. | `npx release-checklist-doctor` |
 | **[api-idempotency-doctor](https://github.com/funnyhcat-dotcom/api-idempotency-doctor)** | Audit APIs/OpenAPI specs for safe Idempotency-Key behavior on mutating endpoints to prevent duplicate charges/orders. | `npx api-idempotency-doctor` |
 | **[webhook-signature-doctor](https://github.com/funnyhcat-dotcom/webhook-signature-doctor)** | Audit webhook signature verification for HMAC strength, replay protection, raw-body safety, and secret rotation. | `npx webhook-signature-doctor` |
