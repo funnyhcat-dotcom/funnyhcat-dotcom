@@ -6,6 +6,7 @@ I build small, practical developer tools that solve everyday workflow problems.
 
 | Project | What it does | Try it |
 |---|---|---|
+| **[api-backup-restore-runbook-doctor](https://github.com/funnyhcat-dotcom/api-backup-restore-runbook-doctor)** | Audits backup/restore runbooks for assets, RPO/RTO, frequency, PITR, encryption, prechecks, restore steps, verification, rollback, drills, monitoring, audit evidence, automation, and ownership. | `npx api-backup-restore-runbook-doctor` |
 | **[api-secret-rotation-runbook-doctor](https://github.com/funnyhcat-dotcom/api-secret-rotation-runbook-doctor)** | Audits secret-rotation runbooks for inventory, triggers, prechecks, dual-secret rollout, rotation steps, verification, rollback, revocation, audit evidence, monitoring, communication, automation, and ownership. | `npx api-secret-rotation-runbook-doctor` |
 | **[api-session-management-doctor](https://github.com/funnyhcat-dotcom/api-session-management-doctor)** | Audits session-management docs for creation, cookie attributes, idle/absolute timeout, renewal, logout invalidation, MFA, device UI, concurrency, CSRF, risk detection, storage, tests, and ownership. | `npx api-session-management-doctor` |
 | **[api-openapi-security-scheme-doctor](https://github.com/funnyhcat-dotcom/api-openapi-security-scheme-doctor)** | Audits OpenAPI security scheme docs for securitySchemes, operation security, OAuth flows/scopes, bearer/JWT validation, API key locations, errors, rotation, docs consistency, and CI linting. | `npx api-openapi-security-scheme-doctor` |
