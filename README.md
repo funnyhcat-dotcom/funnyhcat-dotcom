@@ -6,6 +6,7 @@ I build small, practical developer tools that solve everyday workflow problems.
 
 | Project | What it does | Try it |
 |---|---|---|
+| **[api-webhook-schema-version-doctor](https://github.com/funnyhcat-dotcom/api-webhook-schema-version-doctor)** | Audits webhook docs for schema versions, compatibility, signatures, replay testing, delivery semantics, privacy, and governance. | `npx api-webhook-schema-version-doctor` |
 | **[api-api-version-negotiation-doctor](https://github.com/funnyhcat-dotcom/api-api-version-negotiation-doctor)** | Audits API version negotiation docs for strategy, defaults, errors, SDK config, caching, lifecycle, and migration paths. | `npx api-api-version-negotiation-doctor` |
 | **[api-migration-guide-doctor](https://github.com/funnyhcat-dotcom/api-migration-guide-doctor)** | Scores API migration guides for steps, mappings, examples, validation, rollback, rollout, SDK impact, and troubleshooting. | `npx api-migration-guide-doctor` |
 | **[api-sunset-header-doctor](https://github.com/funnyhcat-dotcom/api-sunset-header-doctor)** | Audits API docs for Sunset/Deprecation headers, timelines, migration guides, and post-sunset errors. | `npx api-sunset-header-doctor` |
