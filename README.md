@@ -6,6 +6,7 @@ I build small, practical developer tools that solve everyday workflow problems.
 
 | Project | What it does | Try it |
 |---|---|---|
+| **[api-oauth-token-lifetime-doctor](https://github.com/funnyhcat-dotcom/api-oauth-token-lifetime-doctor)** | Audits OAuth token-lifetime docs for access/refresh/ID-token TTLs, rotation, revocation, risk-based lifetimes, scopes, clock skew, storage, validation, errors, monitoring, and ownership. | `npx api-oauth-token-lifetime-doctor` |
 | **[api-cookie-policy-doctor](https://github.com/funnyhcat-dotcom/api-cookie-policy-doctor)** | Audits cookie policy docs for inventory, Secure/HttpOnly/SameSite, prefixes, domain/path scope, expiry, consent, CSRF/auth flows, third-party cookies, deletion, examples, tests, and ownership. | `npx api-cookie-policy-doctor` |
 | **[api-security-headers-doctor](https://github.com/funnyhcat-dotcom/api-security-headers-doctor)** | Audits HTTP security-header docs for CSP, HSTS, clickjacking, nosniff, referrer policy, permissions policy, CORS, cookies, cache/download headers, reporting, rollout, and tests. | `npx api-security-headers-doctor` |
 | **[api-webhook-security-doctor](https://github.com/funnyhcat-dotcom/api-webhook-security-doctor)** | Audits webhook security docs for signatures, canonical payloads, replay protection, secret rotation, verification, TLS, endpoint ownership, retries, idempotency, privacy, monitoring, and incidents. | `npx api-webhook-security-doctor` |
