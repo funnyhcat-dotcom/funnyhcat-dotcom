@@ -6,6 +6,7 @@ I build small, practical developer tools that solve everyday workflow problems.
 
 | Project | What it does | Try it |
 |---|---|---|
+| **[frontend-env-leak-doctor](https://github.com/funnyhcat-dotcom/frontend-env-leak-doctor)** | Audit frontend source and build artifacts for exposed secrets, unsafe public environment variables, API keys, tokens, source maps, and client-side credential leaks. | `npx frontend-env-leak-doctor` |
 | **[cookie-consent-doctor](https://github.com/funnyhcat-dotcom/cookie-consent-doctor)** | Audit websites and frontend code for cookie consent banners, privacy links, analytics gating, reject buttons, withdrawal controls, and consent persistence hygiene. | `npx cookie-consent-doctor` |
 | **[webhook-replay-doctor](https://github.com/funnyhcat-dotcom/webhook-replay-doctor)** | Audit webhook handlers for replay attack protection, timestamp tolerance, event deduplication, idempotency, signature verification, and secret rotation guidance. | `npx webhook-replay-doctor` |
 | **[openapi-drift-doctor](https://github.com/funnyhcat-dotcom/openapi-drift-doctor)** | Audit drift between OpenAPI specs and application routes, client calls, method/path coverage, operationIds, parameters, and response documentation. | `npx openapi-drift-doctor` |
