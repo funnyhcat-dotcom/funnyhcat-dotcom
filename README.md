@@ -6,6 +6,7 @@ I build small, practical developer tools that solve everyday workflow problems.
 
 | Project | What it does | Try it |
 |---|---|---|
+| **[api-request-signing-doctor](https://github.com/funnyhcat-dotcom/api-request-signing-doctor)** | Audits API request-signing docs for algorithms, canonical requests, signed headers, payload hashes, replay protection, key rotation, verification errors, examples, SDKs, and monitoring. | `npx api-request-signing-doctor` |
 | **[api-json-schema-compat-doctor](https://github.com/funnyhcat-dotcom/api-json-schema-compat-doctor)** | Audits JSON Schema compatibility docs for backward/forward rules, required fields, additionalProperties, type changes, enums, defaults, versioning, validation, diff checks, rollout, and ownership. | `npx api-json-schema-compat-doctor` |
 | **[api-oauth-token-lifetime-doctor](https://github.com/funnyhcat-dotcom/api-oauth-token-lifetime-doctor)** | Audits OAuth token-lifetime docs for access/refresh/ID-token TTLs, rotation, revocation, risk-based lifetimes, scopes, clock skew, storage, validation, errors, monitoring, and ownership. | `npx api-oauth-token-lifetime-doctor` |
 | **[api-cookie-policy-doctor](https://github.com/funnyhcat-dotcom/api-cookie-policy-doctor)** | Audits cookie policy docs for inventory, Secure/HttpOnly/SameSite, prefixes, domain/path scope, expiry, consent, CSRF/auth flows, third-party cookies, deletion, examples, tests, and ownership. | `npx api-cookie-policy-doctor` |
