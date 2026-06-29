@@ -6,6 +6,7 @@ I build small, practical developer tools that solve everyday workflow problems.
 
 | Project | What it does | Try it |
 |---|---|---|
+| **[security-headers-doctor](https://github.com/funnyhcat-dotcom/security-headers-doctor)** | Audit HTTP security headers from a headers file, JSON, or curl output | `npx security-headers-doctor` |
 | **[meta-tags-doctor](https://github.com/funnyhcat-dotcom/meta-tags-doctor)** | Audit HTML meta tags for SEO and social sharing readiness | `npx meta-tags-doctor` |
 | **[sitemap-xml-doctor](https://github.com/funnyhcat-dotcom/sitemap-xml-doctor)** | Audit `sitemap.xml` files for common SEO and indexing issues | `npx sitemap-xml-doctor` |
 | **[robots-txt-doctor](https://github.com/funnyhcat-dotcom/robots-txt-doctor)** | Audit `robots.txt` files for common SEO and crawler access issues | `npx robots-txt-doctor` |
