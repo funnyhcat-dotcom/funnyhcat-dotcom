@@ -6,6 +6,7 @@ I build small, practical developer tools that solve everyday workflow problems.
 
 | Project | What it does | Try it |
 |---|---|---|
+| **[aria-landmark-doctor](https://github.com/funnyhcat-dotcom/aria-landmark-doctor)** | Audit HTML pages for accessibility landmarks, heading structure, skip links, document language, and ARIA navigation issues | `npx aria-landmark-doctor` |
 | **[structured-data-doctor](https://github.com/funnyhcat-dotcom/structured-data-doctor)** | Audit JSON-LD structured data for SEO rich result readiness, required fields, URLs, images, and schema consistency | `npx structured-data-doctor` |
 | **[hreflang-doctor](https://github.com/funnyhcat-dotcom/hreflang-doctor)** | Audit hreflang tags and alternate language clusters for international SEO mistakes | `npx hreflang-doctor` |
 | **[tls-cert-doctor](https://github.com/funnyhcat-dotcom/tls-cert-doctor)** | Audit HTTPS/TLS certificates for expiry, hostname coverage, SANs, issuer, key size, signature algorithm, and chain readiness | `npx tls-cert-doctor` |
