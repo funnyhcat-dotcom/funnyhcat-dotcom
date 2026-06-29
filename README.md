@@ -6,6 +6,7 @@ I build small, practical developer tools that solve everyday workflow problems.
 
 | Project | What it does | Try it |
 |---|---|---|
+| **[api-filter-sort-doctor](https://github.com/funnyhcat-dotcom/api-filter-sort-doctor)** | Audits API docs for filtering/sorting operators, defaults, tie breakers, pagination stability, limits, and examples. | `npx api-filter-sort-doctor` |
 | **[api-auth-scope-doctor](https://github.com/funnyhcat-dotcom/api-auth-scope-doctor)** | Audit API docs and code for OAuth scopes, permission matrices, least privilege, 401/403 behavior, token examples, scope changes, and authorization tests. | `npx api-auth-scope-doctor` |
 | **[api-cors-docs-doctor](https://github.com/funnyhcat-dotcom/api-cors-docs-doctor)** | Audit API CORS documentation and code for allowed origins, methods, headers, credentials, preflight behavior, browser errors, and local development guidance. | `npx api-cors-docs-doctor` |
 | **[api-version-header-doctor](https://github.com/funnyhcat-dotcom/api-version-header-doctor)** | Audit API docs and code for version negotiation headers, default versions, Sunset/Deprecation headers, compatibility policy, and migration guidance. | `npx api-version-header-doctor` |
