@@ -6,6 +6,7 @@ I build small, practical developer tools that solve everyday workflow problems.
 
 | Project | What it does | Try it |
 |---|---|---|
+| **[api-sdk-retry-policy-doctor](https://github.com/funnyhcat-dotcom/api-sdk-retry-policy-doctor)** | Audits SDK retry policy docs for retryable errors, backoff+jitter, max attempts, timeouts, idempotency, Retry-After, cancellation, observability, config, tests, and compatibility. | `npx api-sdk-retry-policy-doctor` |
 | **[api-error-taxonomy-doctor](https://github.com/funnyhcat-dotcom/api-error-taxonomy-doctor)** | Audits API error taxonomy docs for stable codes, HTTP mapping, response schema, retryability, validation details, auth errors, correlation IDs, redaction, examples, SDK handling, and ownership. | `npx api-error-taxonomy-doctor` |
 | **[api-openapi-pagination-doctor](https://github.com/funnyhcat-dotcom/api-openapi-pagination-doctor)** | Audits OpenAPI pagination docs for style, parameters, response envelope, links, stable ordering, limits, cursor lifetime, errors, filters, mutations, SDK guidance, and compatibility. | `npx api-openapi-pagination-doctor` |
 | **[api-oauth-consent-screen-doctor](https://github.com/funnyhcat-dotcom/api-oauth-consent-screen-doctor)** | Audits OAuth consent-screen docs for app identity, scopes, plain-language purpose, risks, privacy disclosures, redirect URI safety, revocation, offline access, examples, and support. | `npx api-oauth-consent-screen-doctor` |
