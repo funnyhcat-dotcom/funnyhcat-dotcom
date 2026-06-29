@@ -6,6 +6,7 @@ I build small, practical developer tools that solve everyday workflow problems.
 
 | Project | What it does | Try it |
 |---|---|---|
+| **[api-file-upload-policy-doctor](https://github.com/funnyhcat-dotcom/api-file-upload-policy-doctor)** | Audits API file upload docs for flow, limits, MIME policy, validation, malware scanning, signed URLs, privacy, errors, and cleanup. | `npx api-file-upload-policy-doctor` |
 | **[api-tenant-isolation-docs-doctor](https://github.com/funnyhcat-dotcom/api-tenant-isolation-docs-doctor)** | Audits SaaS/API tenant isolation docs for identity claims, authorization, data partitioning, cross-tenant prevention, audit logs, caches, storage, events, tests, and incidents. | `npx api-tenant-isolation-docs-doctor` |
 | **[api-cursor-pagination-doctor](https://github.com/funnyhcat-dotcom/api-cursor-pagination-doctor)** | Audits API cursor pagination docs for parameters, response shape, traversal, limits, ordering, opaque cursors, errors, SDK loops, and performance notes. | `npx api-cursor-pagination-doctor` |
 | **[api-sandbox-environment-doctor](https://github.com/funnyhcat-dotcom/api-sandbox-environment-doctor)** | Audits API sandbox/test environment docs for base URLs, credentials, test data, cleanup, webhooks, isolation, limits, go-live guidance, and safety warnings. | `npx api-sandbox-environment-doctor` |
