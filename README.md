@@ -6,6 +6,7 @@ I build small, practical developer tools that solve everyday workflow problems.
 
 | Project | What it does | Try it |
 |---|---|---|
+| **[api-audit-log-export-doctor](https://github.com/funnyhcat-dotcom/api-audit-log-export-doctor)** | Audits audit-log export docs for schema, filters, formats, integrity signatures, chain-of-custody, permissions, redaction, retention, async jobs, limits, and SIEM guidance. | `npx api-audit-log-export-doctor` |
 | **[api-webhook-ordering-doctor](https://github.com/funnyhcat-dotcom/api-webhook-ordering-doctor)** | Audits webhook ordering docs for ordering guarantees, sequence numbers, partition keys, idempotency, retries, out-of-order handling, replay, DLQ, signatures, and monitoring. | `npx api-webhook-ordering-doctor` |
 | **[api-data-classification-doctor](https://github.com/funnyhcat-dotcom/api-data-classification-doctor)** | Audits API data-classification docs for PII, secrets, handling rules, encryption, access control, retention, logging redaction, vendors, ownership, and CI enforcement. | `npx api-data-classification-doctor` |
 | **[api-slo-error-budget-doctor](https://github.com/funnyhcat-dotcom/api-slo-error-budget-doctor)** | Audits API SLO and error-budget docs for targets, SLIs, burn-rate alerts, incidents, exclusions, status reporting, telemetry, owners, and rollout safety. | `npx api-slo-error-budget-doctor` |
