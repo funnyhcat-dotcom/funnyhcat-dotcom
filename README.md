@@ -6,6 +6,7 @@ I build small, practical developer tools that solve everyday workflow problems.
 
 | Project | What it does | Try it |
 |---|---|---|
+| **[api-batch-job-doctor](https://github.com/funnyhcat-dotcom/api-batch-job-doctor)** | Audits async batch/job API docs for 202 creation, status polling, state machines, progress, cancellation, retry/idempotency, result downloads, per-item errors, expiry, webhooks, limits, examples, and permissions. | `npx api-batch-job-doctor` |
 | **[api-metadata-doctor](https://github.com/funnyhcat-dotcom/api-metadata-doctor)** | Audits API metadata/custom fields docs for key/value limits, types, nesting, validation, delete/unset semantics, search/indexing, privacy/security, examples, webhooks, permissions, reserved keys, and migration/export behavior. | `npx api-metadata-doctor` |
 | **[api-public-id-doctor](https://github.com/funnyhcat-dotcom/api-public-id-doctor)** | Audits API public ID docs for opaque/non-enumerable IDs, prefixes, UUID/ULID, stability, tenant scoping, IDOR boundaries, errors, examples, migration, idempotency distinctions, logging/privacy, sorting semantics, and case sensitivity. | `npx api-public-id-doctor` |
 | **[api-soft-delete-doctor](https://github.com/funnyhcat-dotcom/api-soft-delete-doctor)** | Audits API delete/restore docs for soft delete, archive, restore windows, retention, hard purge, list/filter behavior, status codes, cascade effects, audit logs, permissions, compliance, examples, and events. | `npx api-soft-delete-doctor` |
