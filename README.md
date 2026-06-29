@@ -6,6 +6,7 @@ I build small, practical developer tools that solve everyday workflow problems.
 
 | Project | What it does | Try it |
 |---|---|---|
+| **[release-assets-doctor](https://github.com/funnyhcat-dotcom/release-assets-doctor)** | Audit GitHub release notes and asset manifests for binaries, checksums, SBOM, provenance, install commands, upgrade notes, and platform coverage. | `npx release-assets-doctor` |
 | **[renovate-config-doctor](https://github.com/funnyhcat-dotcom/renovate-config-doctor)** | Audit Renovate configuration for presets, schedules, labels, reviewers, package rules, automerge safety, PR limits, and dependency update hygiene. | `npx renovate-config-doctor` |
 | **[repo-funding-doctor](https://github.com/funnyhcat-dotcom/repo-funding-doctor)** | Audit GitHub FUNDING.yml and README sponsor/support signals for mature, trustworthy open-source project funding setup. | `npx repo-funding-doctor` |
 | **[repo-citation-doctor](https://github.com/funnyhcat-dotcom/repo-citation-doctor)** | Audit repository citation metadata: CITATION.cff, authors, title, version, DOI/URL, license, and README citation guidance. | `npx repo-citation-doctor` |
