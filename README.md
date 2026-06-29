@@ -6,6 +6,7 @@ I build small, practical developer tools that solve everyday workflow problems.
 
 | Project | What it does | Try it |
 |---|---|---|
+| **[markdown-table-fixer](https://github.com/funnyhcat-dotcom/markdown-table-fixer)** | Format and align Markdown tables from the terminal | `npx markdown-table-fixer` |
 | **[favicon-doctor-lite](https://github.com/funnyhcat-dotcom/favicon-doctor-lite)** | Audit favicon and app icon tags in HTML before launching a site | `npx favicon-doctor-lite` |
 | **[security-headers-doctor](https://github.com/funnyhcat-dotcom/security-headers-doctor)** | Audit HTTP security headers from a headers file, JSON, or curl output | `npx security-headers-doctor` |
 | **[meta-tags-doctor](https://github.com/funnyhcat-dotcom/meta-tags-doctor)** | Audit HTML meta tags for SEO and social sharing readiness | `npx meta-tags-doctor` |
