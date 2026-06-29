@@ -6,6 +6,7 @@ I build small, practical developer tools that solve everyday workflow problems.
 
 | Project | What it does | Try it |
 |---|---|---|
+| **[api-api-version-negotiation-doctor](https://github.com/funnyhcat-dotcom/api-api-version-negotiation-doctor)** | Audits API version negotiation docs for strategy, defaults, errors, SDK config, caching, lifecycle, and migration paths. | `npx api-api-version-negotiation-doctor` |
 | **[api-migration-guide-doctor](https://github.com/funnyhcat-dotcom/api-migration-guide-doctor)** | Scores API migration guides for steps, mappings, examples, validation, rollback, rollout, SDK impact, and troubleshooting. | `npx api-migration-guide-doctor` |
 | **[api-sunset-header-doctor](https://github.com/funnyhcat-dotcom/api-sunset-header-doctor)** | Audits API docs for Sunset/Deprecation headers, timelines, migration guides, and post-sunset errors. | `npx api-sunset-header-doctor` |
 | **[api-breaking-change-doctor](https://github.com/funnyhcat-dotcom/api-breaking-change-doctor)** | Audits API breaking-change docs for definitions, concrete breaking/non-breaking examples, versioning strategy, deprecation and Sunset policy, notice periods, migration guides, changelogs, customer communication, before/after examples, removed-version errors, SDK/client impact, and compatibility governance. | `npx api-breaking-change-doctor` |
