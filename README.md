@@ -6,6 +6,7 @@ I build small, practical developer tools that solve everyday workflow problems.
 
 | Project | What it does | Try it |
 |---|---|---|
+| **[api-timeout-doctor](https://github.com/funnyhcat-dotcom/api-timeout-doctor)** | Audit API clients and docs for timeout defaults, cancellation, retry budgets, backoff, idempotency, rate-limit handling, and long-running request guidance. | `npx api-timeout-doctor` |
 | **[status-code-map-doctor](https://github.com/funnyhcat-dotcom/status-code-map-doctor)** | Audit API docs for HTTP status code maps, stable error codes, retry guidance, auth/rate-limit responses, examples, and troubleshooting coverage. | `npx status-code-map-doctor` |
 | **[open-graph-image-doctor](https://github.com/funnyhcat-dotcom/open-graph-image-doctor)** | Audit HTML pages for Open Graph and Twitter share images, absolute URLs, dimensions, alt text, card metadata, and social preview consistency. | `npx open-graph-image-doctor` |
 | **[sdk-error-doctor](https://github.com/funnyhcat-dotcom/sdk-error-doctor)** | Audit SDKs for developer-friendly error handling: typed errors, error codes, HTTP status mapping, retry hints, examples, and troubleshooting docs. | `npx sdk-error-doctor` |
