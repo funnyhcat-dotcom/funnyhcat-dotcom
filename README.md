@@ -6,6 +6,7 @@ I build small, practical developer tools that solve everyday workflow problems.
 
 | Project | What it does | Try it |
 |---|---|---|
+| **[sdk-error-doctor](https://github.com/funnyhcat-dotcom/sdk-error-doctor)** | Audit SDKs for developer-friendly error handling: typed errors, error codes, HTTP status mapping, retry hints, examples, and troubleshooting docs. | `npx sdk-error-doctor` |
 | **[api-changelog-doctor](https://github.com/funnyhcat-dotcom/api-changelog-doctor)** | Audit API changelogs and release notes for breaking changes, migrations, deprecations, versioning, impact scope, compatibility, and rollout guidance. | `npx api-changelog-doctor` |
 | **[docs-search-doctor](https://github.com/funnyhcat-dotcom/docs-search-doctor)** | Audit documentation sites for search UX: search boxes, indexes, keyboard shortcuts, empty states, sitemap/robots, synonyms, and no-results recovery. | `npx docs-search-doctor` |
 | **[pricing-page-doctor](https://github.com/funnyhcat-dotcom/pricing-page-doctor)** | Audit SaaS and product pricing pages for clear prices, billing periods, currencies, CTAs, feature comparison, FAQs, cancellation/refund notes, and SEO/schema signals. | `npx pricing-page-doctor` |
