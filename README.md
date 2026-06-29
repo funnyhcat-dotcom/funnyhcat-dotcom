@@ -6,6 +6,7 @@ I build small, practical developer tools that solve everyday workflow problems.
 
 | Project | What it does | Try it |
 |---|---|---|
+| **[openapi-drift-doctor](https://github.com/funnyhcat-dotcom/openapi-drift-doctor)** | Audit drift between OpenAPI specs and application routes, client calls, method/path coverage, operationIds, parameters, and response documentation. | `npx openapi-drift-doctor` |
 | **[config-drift-doctor](https://github.com/funnyhcat-dotcom/config-drift-doctor)** | Audit environment variable drift across .env.example, README docs, source code, Docker Compose, and GitHub Actions workflows. | `npx config-drift-doctor` |
 | **[npm-package-size-doctor](https://github.com/funnyhcat-dotcom/npm-package-size-doctor)** | Audit npm packages before publish for package size, files allowlists, accidental secrets, test fixtures, coverage, screenshots, source maps, and packed tarball hygiene. | `npx npm-package-size-doctor` |
 | **[repo-archival-doctor](https://github.com/funnyhcat-dotcom/repo-archival-doctor)** | Audit deprecated or archived repositories for clear status banners, migration paths, alternatives, support timelines, security notes, and user-safe shutdown guidance. | `npx repo-archival-doctor` |
