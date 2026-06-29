@@ -6,6 +6,7 @@ I build small, practical developer tools that solve everyday workflow problems.
 
 | Project | What it does | Try it |
 |---|---|---|
+| **[jwt-claims-doctor](https://github.com/funnyhcat-dotcom/jwt-claims-doctor)** | Audit decoded JWT headers/claims for exp, iss, aud, sub, jti, alg=none, lifetime, replay, and sensitive-data mistakes. | `npx jwt-claims-doctor` |
 | **[license-notice-doctor](https://github.com/funnyhcat-dotcom/license-notice-doctor)** | Audit open-source repos for LICENSE, NOTICE, package metadata, README license signals, and licensing hygiene. | `npx license-notice-doctor` |
 | **[status-page-doctor](https://github.com/funnyhcat-dotcom/status-page-doctor)** | Audit incident/status page updates for customer impact, timestamps, next update, mitigation, support channel, and RCA readiness. | `npx status-page-doctor` |
 | **[release-checklist-doctor](https://github.com/funnyhcat-dotcom/release-checklist-doctor)** | Audit release checklist Markdown for rollback, migrations, monitoring, ownership, smoke tests, rollout, and customer comms. | `npx release-checklist-doctor` |
