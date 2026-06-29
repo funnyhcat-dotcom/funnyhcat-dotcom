@@ -6,6 +6,7 @@ I build small, practical developer tools that solve everyday workflow problems.
 
 | Project | What it does | Try it |
 |---|---|---|
+| **[dockerfile-doctor](https://github.com/funnyhcat-dotcom/dockerfile-doctor)** | Audit Dockerfiles for safer, smaller, production-ready containers: pinned bases, non-root users, secrets, cache hygiene, healthchecks, and build reliability | `npx dockerfile-doctor` |
 | **[github-actions-doctor](https://github.com/funnyhcat-dotcom/github-actions-doctor)** | Audit GitHub Actions workflows for least-privilege permissions, pinned actions, risky triggers, secret exposure, shell safety, and CI reliability basics | `npx github-actions-doctor` |
 | **[package-json-doctor](https://github.com/funnyhcat-dotcom/package-json-doctor)** | Audit package.json files for publish readiness, metadata quality, scripts, bin exports, repository links, license, files allowlists, engines, and dependency hygiene | `npx package-json-doctor` |
 | **[env-example-doctor](https://github.com/funnyhcat-dotcom/env-example-doctor)** | Audit .env.example files for safe placeholders, missing descriptions, real secret leaks, duplicate keys, weak defaults, and onboarding-ready configuration docs | `npx env-example-doctor` |
