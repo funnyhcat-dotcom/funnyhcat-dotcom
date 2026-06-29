@@ -6,6 +6,7 @@ I build small, practical developer tools that solve everyday workflow problems.
 
 | Project | What it does | Try it |
 |---|---|---|
+| **[json-key-sorter-cli](https://github.com/funnyhcat-dotcom/json-key-sorter-cli)** | Sort JSON object keys for stable diffs from the terminal | `npx json-key-sorter-cli` |
 | **[markdown-table-fixer](https://github.com/funnyhcat-dotcom/markdown-table-fixer)** | Format and align Markdown tables from the terminal | `npx markdown-table-fixer` |
 | **[favicon-doctor-lite](https://github.com/funnyhcat-dotcom/favicon-doctor-lite)** | Audit favicon and app icon tags in HTML before launching a site | `npx favicon-doctor-lite` |
 | **[security-headers-doctor](https://github.com/funnyhcat-dotcom/security-headers-doctor)** | Audit HTTP security headers from a headers file, JSON, or curl output | `npx security-headers-doctor` |
