@@ -6,6 +6,7 @@ I build small, practical developer tools that solve everyday workflow problems.
 
 | Project | What it does | Try it |
 |---|---|---|
+| **[api-data-subprocessor-doctor](https://github.com/funnyhcat-dotcom/api-data-subprocessor-doctor)** | Audits data subprocessor disclosures for vendors, purpose, data categories, regions, DPA/legal terms, security controls, change notices, objections, retention, transfer mechanisms, and ownership. | `npx api-data-subprocessor-doctor` |
 | **[api-deprecation-email-doctor](https://github.com/funnyhcat-dotcom/api-deprecation-email-doctor)** | Audits API deprecation email templates for affected scope, timelines, impact, migration path, examples, CTAs, reminders, support, metrics, compliance, approvals, and ownership. | `npx api-deprecation-email-doctor` |
 | **[api-webhook-replay-doctor](https://github.com/funnyhcat-dotcom/api-webhook-replay-doctor)** | Audits webhook replay docs for retention, cursor ranges, filtering, idempotency, ordering, signatures, DLQ handling, safety controls, observability, permissions, and ownership. | `npx api-webhook-replay-doctor` |
 | **[api-changelog-rss-doctor](https://github.com/funnyhcat-dotcom/api-changelog-rss-doctor)** | Audits API changelog/RSS/Atom docs for feed discovery, stable URLs, metadata, categories, breaking changes, deprecations, migration guidance, archives, cache/rate limits, authenticity, metrics, and ownership. | `npx api-changelog-rss-doctor` |
