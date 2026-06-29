@@ -6,6 +6,7 @@ I build small, practical developer tools that solve everyday workflow problems.
 
 | Project | What it does | Try it |
 |---|---|---|
+| **[json-lines-doctor](https://github.com/funnyhcat-dotcom/json-lines-doctor)** | Validate, compact, and summarize NDJSON/JSONL files from the terminal | `npx json-lines-doctor` |
 | **[dotenv-quote-fixer](https://github.com/funnyhcat-dotcom/dotenv-quote-fixer)** | Normalize `.env` quoting and catch fragile env lines before deploys break | `npx dotenv-quote-fixer` |
 | **[yaml-env-checker](https://github.com/funnyhcat-dotcom/yaml-env-checker)** | Find environment variables referenced in YAML but missing from `.env.example` | `npx yaml-env-checker` |
 | **[url-query-cleaner-cli](https://github.com/funnyhcat-dotcom/url-query-cleaner-cli)** | Remove tracking query parameters from URLs in the terminal | `npx url-query-cleaner-cli` |
