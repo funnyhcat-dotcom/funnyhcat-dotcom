@@ -6,6 +6,7 @@ I build small, practical developer tools that solve everyday workflow problems.
 
 | Project | What it does | Try it |
 |---|---|---|
+| **[docs-quickstart-doctor](https://github.com/funnyhcat-dotcom/docs-quickstart-doctor)** | Audits Quickstart docs for prerequisites, install, first command, expected output, verification, config, auth, troubleshooting, and cleanup. | `npx docs-quickstart-doctor` |
 | **[cli-help-doctor](https://github.com/funnyhcat-dotcom/cli-help-doctor)** | Audits CLI README/help text for install, usage, options, examples, IO, exit codes, env vars, CI, and troubleshooting. | `npx cli-help-doctor` |
 | **[api-filter-sort-doctor](https://github.com/funnyhcat-dotcom/api-filter-sort-doctor)** | Audits API docs for filtering/sorting operators, defaults, tie breakers, pagination stability, limits, and examples. | `npx api-filter-sort-doctor` |
 | **[api-auth-scope-doctor](https://github.com/funnyhcat-dotcom/api-auth-scope-doctor)** | Audit API docs and code for OAuth scopes, permission matrices, least privilege, 401/403 behavior, token examples, scope changes, and authorization tests. | `npx api-auth-scope-doctor` |
