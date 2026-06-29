@@ -6,6 +6,7 @@ I build small, practical developer tools that solve everyday workflow problems.
 
 | Project | What it does | Try it |
 |---|---|---|
+| **[hreflang-doctor](https://github.com/funnyhcat-dotcom/hreflang-doctor)** | Audit hreflang tags and alternate language clusters for international SEO mistakes | `npx hreflang-doctor` |
 | **[tls-cert-doctor](https://github.com/funnyhcat-dotcom/tls-cert-doctor)** | Audit HTTPS/TLS certificates for expiry, hostname coverage, SANs, issuer, key size, signature algorithm, and chain readiness | `npx tls-cert-doctor` |
 | **[email-dns-doctor](https://github.com/funnyhcat-dotcom/email-dns-doctor)** | Audit email DNS records for SPF, DMARC, MX, DKIM selectors, alignment, and anti-spoofing readiness | `npx email-dns-doctor` |
 | **[redirect-chain-doctor](https://github.com/funnyhcat-dotcom/redirect-chain-doctor)** | Inspect URL redirect chains for hops, loops, HTTPS downgrades, tracking parameters, status codes, and SEO issues | `npx redirect-chain-doctor` |
