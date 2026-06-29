@@ -6,6 +6,7 @@ I build small, practical developer tools that solve everyday workflow problems.
 
 | Project | What it does | Try it |
 |---|---|---|
+| **[github-labels-doctor](https://github.com/funnyhcat-dotcom/github-labels-doctor)** | Audit GitHub repository labels for coverage, valid colors, descriptions, duplicates, and open-source triage readiness. | `npx github-labels-doctor` |
 | **[dependabot-config-doctor](https://github.com/funnyhcat-dotcom/dependabot-config-doctor)** | Audit Dependabot config for ecosystem coverage, schedules, grouping, PR limits, labels, reviewers, and noisy update hygiene. | `npx dependabot-config-doctor` |
 | **[pr-description-doctor](https://github.com/funnyhcat-dotcom/pr-description-doctor)** | Audit pull request descriptions for summary, tests, risk, screenshots, rollback, linked issues, breaking changes, and review context. | `npx pr-description-doctor` |
 | **[npm-publish-doctor](https://github.com/funnyhcat-dotcom/npm-publish-doctor)** | Audit npm packages before publishing for metadata, files/bin correctness, README/LICENSE, private flags, and release hygiene. | `npx npm-publish-doctor` |
