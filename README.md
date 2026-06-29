@@ -6,6 +6,7 @@ I build small, practical developer tools that solve everyday workflow problems.
 
 | Project | What it does | Try it |
 |---|---|---|
+| **[github-profile-readme-doctor](https://github.com/funnyhcat-dotcom/github-profile-readme-doctor)** | Audit GitHub profile README files for project tables, CTAs, contact links, tech stack, badges, and first-impression quality. | `npx github-profile-readme-doctor` |
 | **[repo-social-preview-doctor](https://github.com/funnyhcat-dotcom/repo-social-preview-doctor)** | Audit repository social preview assets and README first-impression signals for clickable, professional GitHub projects. | `npx repo-social-preview-doctor` |
 | **[issue-template-doctor](https://github.com/funnyhcat-dotcom/issue-template-doctor)** | Audit GitHub issue templates for bug reports, feature requests, security routing, reproduction fields, and triage readiness. | `npx issue-template-doctor` |
 | **[github-labels-doctor](https://github.com/funnyhcat-dotcom/github-labels-doctor)** | Audit GitHub repository labels for coverage, valid colors, descriptions, duplicates, and open-source triage readiness. | `npx github-labels-doctor` |
