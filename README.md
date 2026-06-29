@@ -6,6 +6,7 @@ I build small, practical developer tools that solve everyday workflow problems.
 
 | Project | What it does | Try it |
 |---|---|---|
+| **[api-api-quota-billing-doctor](https://github.com/funnyhcat-dotcom/api-api-quota-billing-doctor)** | Audits API quota/billing docs for quota model, billable units, overages, hard/soft limits, rate-limit distinction, reset windows, usage APIs, alerts, plans, invoices, disputes, and privacy. | `npx api-api-quota-billing-doctor` |
 | **[api-feature-flag-api-doctor](https://github.com/funnyhcat-dotcom/api-feature-flag-api-doctor)** | Audits feature flag API docs for flag model, evaluation, targeting, rollout, environments, fallbacks, SDK caching, audit logs, permissions, rollback, metrics, consistency, cleanup, and privacy. | `npx api-feature-flag-api-doctor` |
 | **[api-data-deletion-request-doctor](https://github.com/funnyhcat-dotcom/api-data-deletion-request-doctor)** | Audits data deletion/erasure request API docs for flow, identity verification, scope, exceptions, timelines, statuses, examples, confirmations, backups, audit logs, webhooks, auth, and privacy law context. | `npx api-data-deletion-request-doctor` |
 | **[api-customer-facing-changelog-doctor](https://github.com/funnyhcat-dotcom/api-customer-facing-changelog-doctor)** | Audits customer-facing API changelogs for dates, impact, action required, breaking changes, migration links, rollout, examples, deprecations, subscriptions, and support paths. | `npx api-customer-facing-changelog-doctor` |
